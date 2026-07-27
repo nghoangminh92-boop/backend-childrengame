@@ -1,0 +1,1052 @@
+[
+  {
+    "level": 1,
+    "questions": [
+      {
+        "question": "5 + 3 = ?",
+        "options": [
+          "8",
+          "5",
+          "9",
+          "7"
+        ],
+        "correctAnswer": "8"
+      },
+      {
+        "question": "0 + 8 = ?",
+        "options": [
+          "6",
+          "8",
+          "10",
+          "7"
+        ],
+        "correctAnswer": "8"
+      },
+      {
+        "question": "1 + 9 = ?",
+        "options": [
+          "13",
+          "10",
+          "8",
+          "7"
+        ],
+        "correctAnswer": "10"
+      },
+      {
+        "question": "0 + 3 = ?",
+        "options": [
+          "3",
+          "6",
+          "8",
+          "5"
+        ],
+        "correctAnswer": "3"
+      },
+      {
+        "question": "0 + 6 = ?",
+        "options": [
+          "8",
+          "11",
+          "4",
+          "6"
+        ],
+        "correctAnswer": "6"
+      },
+      {
+        "question": "6 + 1 = ?",
+        "options": [
+          "9",
+          "5",
+          "7",
+          "11"
+        ],
+        "correctAnswer": "7"
+      },
+      {
+        "question": "1 + 6 = ?",
+        "options": [
+          "4",
+          "12",
+          "7",
+          "11"
+        ],
+        "correctAnswer": "7"
+      },
+      {
+        "question": "0 + 1 = ?",
+        "options": [
+          "1",
+          "3",
+          "6",
+          "4"
+        ],
+        "correctAnswer": "1"
+      },
+      {
+        "question": "3 + 0 = ?",
+        "options": [
+          "5",
+          "8",
+          "3",
+          "0"
+        ],
+        "correctAnswer": "3"
+      },
+      {
+        "question": "9 + 0 = ?",
+        "options": [
+          "14",
+          "6",
+          "12",
+          "9"
+        ],
+        "correctAnswer": "9"
+      }
+    ]
+  },
+  {
+    "level": 2,
+    "questions": [
+      {
+        "question": "8 - 0 = ?",
+        "options": [
+          "7",
+          "9",
+          "8",
+          "12"
+        ],
+        "correctAnswer": "8"
+      },
+      {
+        "question": "4 - 2 = ?",
+        "options": [
+          "3",
+          "7",
+          "1",
+          "2"
+        ],
+        "correctAnswer": "2"
+      },
+      {
+        "question": "3 - 1 = ?",
+        "options": [
+          "1",
+          "6",
+          "5",
+          "2"
+        ],
+        "correctAnswer": "2"
+      },
+      {
+        "question": "7 - 6 = ?",
+        "options": [
+          "6",
+          "1",
+          "2",
+          "5"
+        ],
+        "correctAnswer": "1"
+      },
+      {
+        "question": "8 - 1 = ?",
+        "options": [
+          "7",
+          "10",
+          "6",
+          "5"
+        ],
+        "correctAnswer": "7"
+      },
+      {
+        "question": "3 - 3 = ?",
+        "options": [
+          "4",
+          "0",
+          "1",
+          "3"
+        ],
+        "correctAnswer": "0"
+      },
+      {
+        "question": "7 - 4 = ?",
+        "options": [
+          "3",
+          "6",
+          "1",
+          "8"
+        ],
+        "correctAnswer": "3"
+      },
+      {
+        "question": "3 - 3 = ?",
+        "options": [
+          "0",
+          "5",
+          "3",
+          "2"
+        ],
+        "correctAnswer": "0"
+      },
+      {
+        "question": "9 - 4 = ?",
+        "options": [
+          "6",
+          "5",
+          "8",
+          "2"
+        ],
+        "correctAnswer": "5"
+      },
+      {
+        "question": "7 - 5 = ?",
+        "options": [
+          "2",
+          "5",
+          "4",
+          "0"
+        ],
+        "correctAnswer": "2"
+      }
+    ]
+  },
+  {
+    "level": 3,
+    "questions": [
+      {
+        "question": "8 - 3 = ?",
+        "options": [
+          "2",
+          "8",
+          "10",
+          "5"
+        ],
+        "correctAnswer": "5"
+      },
+      {
+        "question": "13 + 3 = ?",
+        "options": [
+          "20",
+          "17",
+          "21",
+          "16"
+        ],
+        "correctAnswer": "16"
+      },
+      {
+        "question": "17 + 3 = ?",
+        "options": [
+          "18",
+          "20",
+          "25",
+          "24"
+        ],
+        "correctAnswer": "20"
+      },
+      {
+        "question": "1 - 0 = ?",
+        "options": [
+          "0",
+          "4",
+          "6",
+          "1"
+        ],
+        "correctAnswer": "1"
+      },
+      {
+        "question": "16 - 8 = ?",
+        "options": [
+          "7",
+          "6",
+          "5",
+          "8"
+        ],
+        "correctAnswer": "8"
+      },
+      {
+        "question": "12 + 7 = ?",
+        "options": [
+          "16",
+          "20",
+          "21",
+          "19"
+        ],
+        "correctAnswer": "19"
+      },
+      {
+        "question": "12 - 1 = ?",
+        "options": [
+          "15",
+          "13",
+          "14",
+          "11"
+        ],
+        "correctAnswer": "11"
+      },
+      {
+        "question": "4 + 7 = ?",
+        "options": [
+          "16",
+          "15",
+          "10",
+          "11"
+        ],
+        "correctAnswer": "11"
+      },
+      {
+        "question": "7 - 5 = ?",
+        "options": [
+          "0",
+          "2",
+          "1",
+          "7"
+        ],
+        "correctAnswer": "2"
+      },
+      {
+        "question": "16 + 4 = ?",
+        "options": [
+          "17",
+          "20",
+          "21",
+          "18"
+        ],
+        "correctAnswer": "20"
+      }
+    ]
+  },
+  {
+    "level": 4,
+    "questions": [
+      {
+        "question": "2 x 9 = ?",
+        "options": [
+          "18",
+          "17",
+          "16",
+          "22"
+        ],
+        "correctAnswer": "18"
+      },
+      {
+        "question": "3 x 9 = ?",
+        "options": [
+          "31",
+          "25",
+          "28",
+          "27"
+        ],
+        "correctAnswer": "27"
+      },
+      {
+        "question": "2 x 2 = ?",
+        "options": [
+          "2",
+          "7",
+          "4",
+          "3"
+        ],
+        "correctAnswer": "4"
+      },
+      {
+        "question": "3 x 6 = ?",
+        "options": [
+          "19",
+          "18",
+          "16",
+          "23"
+        ],
+        "correctAnswer": "18"
+      },
+      {
+        "question": "2 x 5 = ?",
+        "options": [
+          "14",
+          "9",
+          "11",
+          "10"
+        ],
+        "correctAnswer": "10"
+      },
+      {
+        "question": "3 x 9 = ?",
+        "options": [
+          "28",
+          "25",
+          "27",
+          "30"
+        ],
+        "correctAnswer": "27"
+      },
+      {
+        "question": "3 x 9 = ?",
+        "options": [
+          "27",
+          "24",
+          "32",
+          "31"
+        ],
+        "correctAnswer": "27"
+      },
+      {
+        "question": "2 x 9 = ?",
+        "options": [
+          "16",
+          "20",
+          "18",
+          "19"
+        ],
+        "correctAnswer": "18"
+      },
+      {
+        "question": "3 x 9 = ?",
+        "options": [
+          "29",
+          "27",
+          "26",
+          "31"
+        ],
+        "correctAnswer": "27"
+      },
+      {
+        "question": "2 x 8 = ?",
+        "options": [
+          "16",
+          "21",
+          "14",
+          "19"
+        ],
+        "correctAnswer": "16"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "questions": [
+      {
+        "question": "5 x 2 = ?",
+        "options": [
+          "9",
+          "8",
+          "11",
+          "10"
+        ],
+        "correctAnswer": "10"
+      },
+      {
+        "question": "5 x 1 = ?",
+        "options": [
+          "5",
+          "6",
+          "10",
+          "7"
+        ],
+        "correctAnswer": "5"
+      },
+      {
+        "question": "4 x 5 = ?",
+        "options": [
+          "17",
+          "21",
+          "20",
+          "22"
+        ],
+        "correctAnswer": "20"
+      },
+      {
+        "question": "4 x 10 = ?",
+        "options": [
+          "40",
+          "44",
+          "45",
+          "38"
+        ],
+        "correctAnswer": "40"
+      },
+      {
+        "question": "4 x 2 = ?",
+        "options": [
+          "7",
+          "11",
+          "9",
+          "8"
+        ],
+        "correctAnswer": "8"
+      },
+      {
+        "question": "5 x 2 = ?",
+        "options": [
+          "8",
+          "9",
+          "7",
+          "10"
+        ],
+        "correctAnswer": "10"
+      },
+      {
+        "question": "5 x 1 = ?",
+        "options": [
+          "9",
+          "5",
+          "3",
+          "2"
+        ],
+        "correctAnswer": "5"
+      },
+      {
+        "question": "5 x 9 = ?",
+        "options": [
+          "50",
+          "45",
+          "47",
+          "42"
+        ],
+        "correctAnswer": "45"
+      },
+      {
+        "question": "5 x 5 = ?",
+        "options": [
+          "22",
+          "30",
+          "25",
+          "27"
+        ],
+        "correctAnswer": "25"
+      },
+      {
+        "question": "4 x 1 = ?",
+        "options": [
+          "6",
+          "5",
+          "4",
+          "1"
+        ],
+        "correctAnswer": "4"
+      }
+    ]
+  },
+  {
+    "level": 6,
+    "questions": [
+      {
+        "question": "12 : 2 = ?",
+        "options": [
+          "5",
+          "6",
+          "4",
+          "10"
+        ],
+        "correctAnswer": "6"
+      },
+      {
+        "question": "10 : 5 = ?",
+        "options": [
+          "6",
+          "1",
+          "4",
+          "2"
+        ],
+        "correctAnswer": "2"
+      },
+      {
+        "question": "25 : 5 = ?",
+        "options": [
+          "3",
+          "6",
+          "2",
+          "5"
+        ],
+        "correctAnswer": "5"
+      },
+      {
+        "question": "12 : 3 = ?",
+        "options": [
+          "9",
+          "4",
+          "2",
+          "8"
+        ],
+        "correctAnswer": "4"
+      },
+      {
+        "question": "4 : 2 = ?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "7"
+        ],
+        "correctAnswer": "2"
+      },
+      {
+        "question": "8 : 4 = ?",
+        "options": [
+          "2",
+          "0",
+          "4",
+          "7"
+        ],
+        "correctAnswer": "2"
+      },
+      {
+        "question": "21 : 3 = ?",
+        "options": [
+          "8",
+          "7",
+          "12",
+          "11"
+        ],
+        "correctAnswer": "7"
+      },
+      {
+        "question": "14 : 2 = ?",
+        "options": [
+          "8",
+          "7",
+          "4",
+          "5"
+        ],
+        "correctAnswer": "7"
+      },
+      {
+        "question": "10 : 2 = ?",
+        "options": [
+          "4",
+          "7",
+          "5",
+          "2"
+        ],
+        "correctAnswer": "5"
+      },
+      {
+        "question": "16 : 4 = ?",
+        "options": [
+          "5",
+          "4",
+          "6",
+          "2"
+        ],
+        "correctAnswer": "4"
+      }
+    ]
+  },
+  {
+    "level": 7,
+    "questions": [
+      {
+        "question": "So sánh: 30 ___ 30",
+        "options": [
+          "≠",
+          "=",
+          "<",
+          ">"
+        ],
+        "correctAnswer": "="
+      },
+      {
+        "question": "So sánh: 36 ___ 13",
+        "options": [
+          "≠",
+          ">",
+          "=",
+          "<"
+        ],
+        "correctAnswer": ">"
+      },
+      {
+        "question": "So sánh: 31 ___ 2",
+        "options": [
+          ">",
+          "<",
+          "=",
+          "≠"
+        ],
+        "correctAnswer": ">"
+      },
+      {
+        "question": "So sánh: 5 ___ 33",
+        "options": [
+          "<",
+          "≠",
+          ">",
+          "="
+        ],
+        "correctAnswer": "<"
+      },
+      {
+        "question": "So sánh: 25 ___ 14",
+        "options": [
+          "≠",
+          ">",
+          "=",
+          "<"
+        ],
+        "correctAnswer": ">"
+      },
+      {
+        "question": "So sánh: 38 ___ 6",
+        "options": [
+          "≠",
+          "<",
+          ">",
+          "="
+        ],
+        "correctAnswer": ">"
+      },
+      {
+        "question": "So sánh: 24 ___ 9",
+        "options": [
+          "<",
+          ">",
+          "≠",
+          "="
+        ],
+        "correctAnswer": ">"
+      },
+      {
+        "question": "So sánh: 8 ___ 46",
+        "options": [
+          "<",
+          "≠",
+          ">",
+          "="
+        ],
+        "correctAnswer": "<"
+      },
+      {
+        "question": "So sánh: 32 ___ 32",
+        "options": [
+          ">",
+          "<",
+          "≠",
+          "="
+        ],
+        "correctAnswer": "="
+      },
+      {
+        "question": "So sánh: 11 ___ 1",
+        "options": [
+          "=",
+          ">",
+          "<",
+          "≠"
+        ],
+        "correctAnswer": ">"
+      }
+    ]
+  },
+  {
+    "level": 8,
+    "questions": [
+      {
+        "question": "48 - 46 = ?",
+        "options": [
+          "4",
+          "2",
+          "0",
+          "1"
+        ],
+        "correctAnswer": "2"
+      },
+      {
+        "question": "63 + 23 = ?",
+        "options": [
+          "90",
+          "87",
+          "86",
+          "89"
+        ],
+        "correctAnswer": "86"
+      },
+      {
+        "question": "50 - 7 = ?",
+        "options": [
+          "43",
+          "41",
+          "44",
+          "40"
+        ],
+        "correctAnswer": "43"
+      },
+      {
+        "question": "10 - 5 = ?",
+        "options": [
+          "10",
+          "2",
+          "5",
+          "7"
+        ],
+        "correctAnswer": "5"
+      },
+      {
+        "question": "60 - 7 = ?",
+        "options": [
+          "53",
+          "56",
+          "55",
+          "57"
+        ],
+        "correctAnswer": "53"
+      },
+      {
+        "question": "11 + 38 = ?",
+        "options": [
+          "53",
+          "49",
+          "51",
+          "50"
+        ],
+        "correctAnswer": "49"
+      },
+      {
+        "question": "57 - 4 = ?",
+        "options": [
+          "51",
+          "53",
+          "52",
+          "54"
+        ],
+        "correctAnswer": "53"
+      },
+      {
+        "question": "59 - 55 = ?",
+        "options": [
+          "4",
+          "8",
+          "7",
+          "9"
+        ],
+        "correctAnswer": "4"
+      },
+      {
+        "question": "56 + 28 = ?",
+        "options": [
+          "83",
+          "84",
+          "85",
+          "82"
+        ],
+        "correctAnswer": "84"
+      },
+      {
+        "question": "16 - 8 = ?",
+        "options": [
+          "10",
+          "8",
+          "11",
+          "9"
+        ],
+        "correctAnswer": "8"
+      }
+    ]
+  },
+  {
+    "level": 9,
+    "questions": [
+      {
+        "question": "72 : 8 = ?",
+        "options": [
+          "10",
+          "7",
+          "14",
+          "9"
+        ],
+        "correctAnswer": "9"
+      },
+      {
+        "question": "8 x 6 = ?",
+        "options": [
+          "45",
+          "48",
+          "46",
+          "53"
+        ],
+        "correctAnswer": "48"
+      },
+      {
+        "question": "16 : 2 = ?",
+        "options": [
+          "5",
+          "7",
+          "8",
+          "10"
+        ],
+        "correctAnswer": "8"
+      },
+      {
+        "question": "21 : 7 = ?",
+        "options": [
+          "1",
+          "5",
+          "4",
+          "3"
+        ],
+        "correctAnswer": "3"
+      },
+      {
+        "question": "3 x 6 = ?",
+        "options": [
+          "20",
+          "18",
+          "15",
+          "23"
+        ],
+        "correctAnswer": "18"
+      },
+      {
+        "question": "8 x 8 = ?",
+        "options": [
+          "65",
+          "61",
+          "64",
+          "69"
+        ],
+        "correctAnswer": "64"
+      },
+      {
+        "question": "40 : 8 = ?",
+        "options": [
+          "10",
+          "2",
+          "5",
+          "6"
+        ],
+        "correctAnswer": "5"
+      },
+      {
+        "question": "4 x 2 = ?",
+        "options": [
+          "9",
+          "12",
+          "8",
+          "11"
+        ],
+        "correctAnswer": "8"
+      },
+      {
+        "question": "72 : 9 = ?",
+        "options": [
+          "9",
+          "8",
+          "12",
+          "11"
+        ],
+        "correctAnswer": "8"
+      },
+      {
+        "question": "3 x 8 = ?",
+        "options": [
+          "26",
+          "29",
+          "24",
+          "25"
+        ],
+        "correctAnswer": "24"
+      }
+    ]
+  },
+  {
+    "level": 10,
+    "questions": [
+      {
+        "question": "Nam có 13 quyển vở, Nam cho bạn 13 quyển. Hỏi Nam còn bao nhiêu quyển vở?",
+        "options": [
+          "0",
+          "1",
+          "3",
+          "5"
+        ],
+        "correctAnswer": "0"
+      },
+      {
+        "question": "Một rổ có 20 quả táo, chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu quả?",
+        "options": [
+          "13",
+          "9",
+          "10",
+          "15"
+        ],
+        "correctAnswer": "10"
+      },
+      {
+        "question": "Có 6 hộp bút, mỗi hộp có 3 cây bút. Hỏi tổng có bao nhiêu cây bút?",
+        "options": [
+          "16",
+          "20",
+          "18",
+          "21"
+        ],
+        "correctAnswer": "18"
+      },
+      {
+        "question": "Nam có 20 quyển vở, Nam cho bạn 14 quyển. Hỏi Nam còn bao nhiêu quyển vở?",
+        "options": [
+          "6",
+          "10",
+          "9",
+          "8"
+        ],
+        "correctAnswer": "6"
+      },
+      {
+        "question": "Lan có 20 viên kẹo, mẹ cho thêm 5 viên. Hỏi Lan có bao nhiêu viên kẹo?",
+        "options": [
+          "30",
+          "26",
+          "25",
+          "28"
+        ],
+        "correctAnswer": "25"
+      },
+      {
+        "question": "Có 2 hộp bút, mỗi hộp có 3 cây bút. Hỏi tổng có bao nhiêu cây bút?",
+        "options": [
+          "6",
+          "9",
+          "11",
+          "3"
+        ],
+        "correctAnswer": "6"
+      },
+      {
+        "question": "Lan có 20 viên kẹo, mẹ cho thêm 5 viên. Hỏi Lan có bao nhiêu viên kẹo?",
+        "options": [
+          "22",
+          "25",
+          "29",
+          "30"
+        ],
+        "correctAnswer": "25"
+      },
+      {
+        "question": "Có 2 hộp bút, mỗi hộp có 2 cây bút. Hỏi tổng có bao nhiêu cây bút?",
+        "options": [
+          "5",
+          "4",
+          "7",
+          "2"
+        ],
+        "correctAnswer": "4"
+      },
+      {
+        "question": "Nam có 17 quyển vở, Nam cho bạn 15 quyển. Hỏi Nam còn bao nhiêu quyển vở?",
+        "options": [
+          "0",
+          "2",
+          "4",
+          "5"
+        ],
+        "correctAnswer": "2"
+      },
+      {
+        "question": "Một rổ có 4 quả táo, chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu quả?",
+        "options": [
+          "4",
+          "7",
+          "2",
+          "6"
+        ],
+        "correctAnswer": "2"
+      }
+    ]
+  }
+]

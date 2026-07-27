@@ -1,0 +1,1052 @@
+[
+  {
+    "level": 1,
+    "questions": [
+      {
+        "question": "What color is a banana?",
+        "options": [
+          "Blue",
+          "Red",
+          "Yellow",
+          "Black"
+        ],
+        "correctAnswer": "Yellow"
+      },
+      {
+        "question": "What color is the sky on a clear day?",
+        "options": [
+          "Yellow",
+          "Blue",
+          "Brown",
+          "Green"
+        ],
+        "correctAnswer": "Blue"
+      },
+      {
+        "question": "What color is grass?",
+        "options": [
+          "Green",
+          "Orange",
+          "White",
+          "Purple"
+        ],
+        "correctAnswer": "Green"
+      },
+      {
+        "question": "What color is an apple usually?",
+        "options": [
+          "Grey",
+          "Red",
+          "Blue",
+          "Purple"
+        ],
+        "correctAnswer": "Red"
+      },
+      {
+        "question": "What color is snow?",
+        "options": [
+          "Yellow",
+          "White",
+          "Pink",
+          "Black"
+        ],
+        "correctAnswer": "White"
+      },
+      {
+        "question": "What color do you get mixing red and white?",
+        "options": [
+          "Brown",
+          "Pink",
+          "Grey",
+          "Green"
+        ],
+        "correctAnswer": "Pink"
+      },
+      {
+        "question": "What color is a carrot?",
+        "options": [
+          "Black",
+          "Green",
+          "Blue",
+          "Orange"
+        ],
+        "correctAnswer": "Orange"
+      },
+      {
+        "question": "What color is night sky?",
+        "options": [
+          "White",
+          "Black",
+          "Pink",
+          "Yellow"
+        ],
+        "correctAnswer": "Black"
+      },
+      {
+        "question": "What color is chocolate?",
+        "options": [
+          "Pink",
+          "Green",
+          "Blue",
+          "Brown"
+        ],
+        "correctAnswer": "Brown"
+      },
+      {
+        "question": "What color is a lemon?",
+        "options": [
+          "Purple",
+          "Grey",
+          "Yellow",
+          "Red"
+        ],
+        "correctAnswer": "Yellow"
+      }
+    ]
+  },
+  {
+    "level": 2,
+    "questions": [
+      {
+        "question": "What is the English word for 'con mèo'?",
+        "options": [
+          "Cat",
+          "Dog",
+          "Bird",
+          "Fish"
+        ],
+        "correctAnswer": "Cat"
+      },
+      {
+        "question": "What is the English word for 'con chó'?",
+        "options": [
+          "Pig",
+          "Cow",
+          "Dog",
+          "Cat"
+        ],
+        "correctAnswer": "Dog"
+      },
+      {
+        "question": "What is the English word for 'con cá'?",
+        "options": [
+          "Cat",
+          "Fish",
+          "Bird",
+          "Dog"
+        ],
+        "correctAnswer": "Fish"
+      },
+      {
+        "question": "What is the English word for 'con chim'?",
+        "options": [
+          "Cat",
+          "Cow",
+          "Fish",
+          "Bird"
+        ],
+        "correctAnswer": "Bird"
+      },
+      {
+        "question": "What is the English word for 'con voi'?",
+        "options": [
+          "Elephant",
+          "Lion",
+          "Bear",
+          "Tiger"
+        ],
+        "correctAnswer": "Elephant"
+      },
+      {
+        "question": "What is the English word for 'con sư tử'?",
+        "options": [
+          "Lion",
+          "Duck",
+          "Elephant",
+          "Rabbit"
+        ],
+        "correctAnswer": "Lion"
+      },
+      {
+        "question": "What is the English word for 'con thỏ'?",
+        "options": [
+          "Duck",
+          "Rabbit",
+          "Frog",
+          "Lion"
+        ],
+        "correctAnswer": "Rabbit"
+      },
+      {
+        "question": "What is the English word for 'con vịt'?",
+        "options": [
+          "Bear",
+          "Frog",
+          "Duck",
+          "Rabbit"
+        ],
+        "correctAnswer": "Duck"
+      },
+      {
+        "question": "What is the English word for 'con gấu'?",
+        "options": [
+          "Duck",
+          "Bear",
+          "Lion",
+          "Frog"
+        ],
+        "correctAnswer": "Bear"
+      },
+      {
+        "question": "What is the English word for 'con ếch'?",
+        "options": [
+          "Bird",
+          "Bear",
+          "Frog",
+          "Fish"
+        ],
+        "correctAnswer": "Frog"
+      }
+    ]
+  },
+  {
+    "level": 3,
+    "questions": [
+      {
+        "question": "What is the English word for 'mẹ'?",
+        "options": [
+          "Father",
+          "Brother",
+          "Mother",
+          "Sister"
+        ],
+        "correctAnswer": "Mother"
+      },
+      {
+        "question": "What is the English word for 'bố'?",
+        "options": [
+          "Brother",
+          "Mother",
+          "Sister",
+          "Father"
+        ],
+        "correctAnswer": "Father"
+      },
+      {
+        "question": "What is the English word for 'anh/em trai'?",
+        "options": [
+          "Sister",
+          "Mother",
+          "Father",
+          "Brother"
+        ],
+        "correctAnswer": "Brother"
+      },
+      {
+        "question": "What is the English word for 'chị/em gái'?",
+        "options": [
+          "Father",
+          "Brother",
+          "Sister",
+          "Mother"
+        ],
+        "correctAnswer": "Sister"
+      },
+      {
+        "question": "What is the English word for 'ông'?",
+        "options": [
+          "Aunt",
+          "Grandmother",
+          "Grandfather",
+          "Uncle"
+        ],
+        "correctAnswer": "Grandfather"
+      },
+      {
+        "question": "What is the English word for 'bà'?",
+        "options": [
+          "Uncle",
+          "Aunt",
+          "Grandmother",
+          "Grandfather"
+        ],
+        "correctAnswer": "Grandmother"
+      },
+      {
+        "question": "What is the English word for 'chú/bác trai'?",
+        "options": [
+          "Brother",
+          "Uncle",
+          "Sister",
+          "Aunt"
+        ],
+        "correctAnswer": "Uncle"
+      },
+      {
+        "question": "What is the English word for 'cô/dì'?",
+        "options": [
+          "Brother",
+          "Sister",
+          "Uncle",
+          "Aunt"
+        ],
+        "correctAnswer": "Aunt"
+      },
+      {
+        "question": "What is the English word for 'con trai'?",
+        "options": [
+          "Son",
+          "Daughter",
+          "Father",
+          "Mother"
+        ],
+        "correctAnswer": "Son"
+      },
+      {
+        "question": "What is the English word for 'con gái'?",
+        "options": [
+          "Mother",
+          "Son",
+          "Father",
+          "Daughter"
+        ],
+        "correctAnswer": "Daughter"
+      }
+    ]
+  },
+  {
+    "level": 4,
+    "questions": [
+      {
+        "question": "What number is 'One'?",
+        "options": [
+          "3",
+          "4",
+          "1",
+          "2"
+        ],
+        "correctAnswer": "1"
+      },
+      {
+        "question": "What number is 'Two'?",
+        "options": [
+          "1",
+          "5",
+          "2",
+          "3"
+        ],
+        "correctAnswer": "2"
+      },
+      {
+        "question": "What number is 'Three'?",
+        "options": [
+          "4",
+          "3",
+          "6",
+          "2"
+        ],
+        "correctAnswer": "3"
+      },
+      {
+        "question": "What number is 'Four'?",
+        "options": [
+          "5",
+          "7",
+          "4",
+          "3"
+        ],
+        "correctAnswer": "4"
+      },
+      {
+        "question": "What number is 'Five'?",
+        "options": [
+          "5",
+          "4",
+          "6",
+          "8"
+        ],
+        "correctAnswer": "5"
+      },
+      {
+        "question": "What number is 'Six'?",
+        "options": [
+          "6",
+          "9",
+          "7",
+          "5"
+        ],
+        "correctAnswer": "6"
+      },
+      {
+        "question": "What number is 'Seven'?",
+        "options": [
+          "6",
+          "8",
+          "10",
+          "7"
+        ],
+        "correctAnswer": "7"
+      },
+      {
+        "question": "What number is 'Eight'?",
+        "options": [
+          "8",
+          "7",
+          "9",
+          "6"
+        ],
+        "correctAnswer": "8"
+      },
+      {
+        "question": "What number is 'Nine'?",
+        "options": [
+          "10",
+          "7",
+          "8",
+          "9"
+        ],
+        "correctAnswer": "9"
+      },
+      {
+        "question": "What number is 'Ten'?",
+        "options": [
+          "9",
+          "10",
+          "8",
+          "7"
+        ],
+        "correctAnswer": "10"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "questions": [
+      {
+        "question": "What is the English word for 'quả táo'?",
+        "options": [
+          "Orange",
+          "Mango",
+          "Grape",
+          "Apple"
+        ],
+        "correctAnswer": "Apple"
+      },
+      {
+        "question": "What is the English word for 'quả cam'?",
+        "options": [
+          "Orange",
+          "Apple",
+          "Banana",
+          "Grape"
+        ],
+        "correctAnswer": "Orange"
+      },
+      {
+        "question": "What is the English word for 'quả chuối'?",
+        "options": [
+          "Banana",
+          "Orange",
+          "Apple",
+          "Mango"
+        ],
+        "correctAnswer": "Banana"
+      },
+      {
+        "question": "What is the English word for 'quả nho'?",
+        "options": [
+          "Apple",
+          "Banana",
+          "Grape",
+          "Mango"
+        ],
+        "correctAnswer": "Grape"
+      },
+      {
+        "question": "What is the English word for 'quả xoài'?",
+        "options": [
+          "Mango",
+          "Orange",
+          "Grape",
+          "Apple"
+        ],
+        "correctAnswer": "Mango"
+      },
+      {
+        "question": "What is the English word for 'quả dứa'?",
+        "options": [
+          "Grape",
+          "Banana",
+          "Mango",
+          "Pineapple"
+        ],
+        "correctAnswer": "Pineapple"
+      },
+      {
+        "question": "What is the English word for 'quả dưa hấu'?",
+        "options": [
+          "Watermelon",
+          "Pineapple",
+          "Apple",
+          "Mango"
+        ],
+        "correctAnswer": "Watermelon"
+      },
+      {
+        "question": "What is the English word for 'quả dâu tây'?",
+        "options": [
+          "Grape",
+          "Orange",
+          "Strawberry",
+          "Watermelon"
+        ],
+        "correctAnswer": "Strawberry"
+      },
+      {
+        "question": "What is the English word for 'quả đào'?",
+        "options": [
+          "Mango",
+          "Peach",
+          "Apple",
+          "Strawberry"
+        ],
+        "correctAnswer": "Peach"
+      },
+      {
+        "question": "What is the English word for 'quả chanh'?",
+        "options": [
+          "Grape",
+          "Orange",
+          "Peach",
+          "Lemon"
+        ],
+        "correctAnswer": "Lemon"
+      }
+    ]
+  },
+  {
+    "level": 6,
+    "questions": [
+      {
+        "question": "What is the English word for 'cái đầu'?",
+        "options": [
+          "Hand",
+          "Foot",
+          "Head",
+          "Eye"
+        ],
+        "correctAnswer": "Head"
+      },
+      {
+        "question": "What is the English word for 'bàn tay'?",
+        "options": [
+          "Foot",
+          "Head",
+          "Ear",
+          "Hand"
+        ],
+        "correctAnswer": "Hand"
+      },
+      {
+        "question": "What is the English word for 'bàn chân'?",
+        "options": [
+          "Eye",
+          "Hand",
+          "Foot",
+          "Nose"
+        ],
+        "correctAnswer": "Foot"
+      },
+      {
+        "question": "What is the English word for 'con mắt'?",
+        "options": [
+          "Nose",
+          "Mouth",
+          "Eye",
+          "Ear"
+        ],
+        "correctAnswer": "Eye"
+      },
+      {
+        "question": "What is the English word for 'cái tai'?",
+        "options": [
+          "Eye",
+          "Hand",
+          "Ear",
+          "Mouth"
+        ],
+        "correctAnswer": "Ear"
+      },
+      {
+        "question": "What is the English word for 'cái mũi'?",
+        "options": [
+          "Ear",
+          "Mouth",
+          "Eye",
+          "Nose"
+        ],
+        "correctAnswer": "Nose"
+      },
+      {
+        "question": "What is the English word for 'cái miệng'?",
+        "options": [
+          "Head",
+          "Nose",
+          "Mouth",
+          "Foot"
+        ],
+        "correctAnswer": "Mouth"
+      },
+      {
+        "question": "What is the English word for 'ngón tay'?",
+        "options": [
+          "Hand",
+          "Arm",
+          "Finger",
+          "Toe"
+        ],
+        "correctAnswer": "Finger"
+      },
+      {
+        "question": "What is the English word for 'cánh tay'?",
+        "options": [
+          "Toe",
+          "Leg",
+          "Arm",
+          "Finger"
+        ],
+        "correctAnswer": "Arm"
+      },
+      {
+        "question": "What is the English word for 'cái chân (leg)'?",
+        "options": [
+          "Arm",
+          "Hand",
+          "Foot",
+          "Leg"
+        ],
+        "correctAnswer": "Leg"
+      }
+    ]
+  },
+  {
+    "level": 7,
+    "questions": [
+      {
+        "question": "How do you say 'Xin chào' in English?",
+        "options": [
+          "Hello",
+          "Thanks",
+          "Sorry",
+          "Goodbye"
+        ],
+        "correctAnswer": "Hello"
+      },
+      {
+        "question": "How do you say 'Tạm biệt' in English?",
+        "options": [
+          "Please",
+          "Goodbye",
+          "Yes",
+          "Hello"
+        ],
+        "correctAnswer": "Goodbye"
+      },
+      {
+        "question": "How do you say 'Cảm ơn' in English?",
+        "options": [
+          "Hello",
+          "No",
+          "Thank you",
+          "Sorry"
+        ],
+        "correctAnswer": "Thank you"
+      },
+      {
+        "question": "How do you say 'Xin lỗi' in English?",
+        "options": [
+          "Sorry",
+          "Hello",
+          "Please",
+          "Thank you"
+        ],
+        "correctAnswer": "Sorry"
+      },
+      {
+        "question": "How do you say 'Làm ơn' in English?",
+        "options": [
+          "Sorry",
+          "Goodbye",
+          "Yes",
+          "Please"
+        ],
+        "correctAnswer": "Please"
+      },
+      {
+        "question": "How do you say 'Có' in English?",
+        "options": [
+          "Hello",
+          "Sorry",
+          "Yes",
+          "No"
+        ],
+        "correctAnswer": "Yes"
+      },
+      {
+        "question": "How do you say 'Không' in English?",
+        "options": [
+          "Sorry",
+          "Yes",
+          "No",
+          "Please"
+        ],
+        "correctAnswer": "No"
+      },
+      {
+        "question": "Complete: '___ morning!' (buổi sáng)",
+        "options": [
+          "Good",
+          "Nice",
+          "Fine",
+          "Well"
+        ],
+        "correctAnswer": "Good"
+      },
+      {
+        "question": "How do you ask someone's name?",
+        "options": [
+          "Where are you?",
+          "What is your name?",
+          "How old are you?",
+          "What time is it?"
+        ],
+        "correctAnswer": "What is your name?"
+      },
+      {
+        "question": "How do you answer 'How are you?' politely?",
+        "options": [
+          "I am fine, thank you",
+          "My name is Tom",
+          "Goodbye",
+          "See you"
+        ],
+        "correctAnswer": "I am fine, thank you"
+      }
+    ]
+  },
+  {
+    "level": 8,
+    "questions": [
+      {
+        "question": "What is the English word for 'chạy'?",
+        "options": [
+          "Run",
+          "Walk",
+          "Jump",
+          "Sit"
+        ],
+        "correctAnswer": "Run"
+      },
+      {
+        "question": "What is the English word for 'đi bộ'?",
+        "options": [
+          "Swim",
+          "Fly",
+          "Walk",
+          "Run"
+        ],
+        "correctAnswer": "Walk"
+      },
+      {
+        "question": "What is the English word for 'nhảy'?",
+        "options": [
+          "Sleep",
+          "Jump",
+          "Sit",
+          "Eat"
+        ],
+        "correctAnswer": "Jump"
+      },
+      {
+        "question": "What is the English word for 'bơi'?",
+        "options": [
+          "Swim",
+          "Fly",
+          "Run",
+          "Read"
+        ],
+        "correctAnswer": "Swim"
+      },
+      {
+        "question": "What is the English word for 'ăn'?",
+        "options": [
+          "Eat",
+          "Sleep",
+          "Sit",
+          "Drink"
+        ],
+        "correctAnswer": "Eat"
+      },
+      {
+        "question": "What is the English word for 'uống'?",
+        "options": [
+          "Eat",
+          "Read",
+          "Write",
+          "Drink"
+        ],
+        "correctAnswer": "Drink"
+      },
+      {
+        "question": "What is the English word for 'ngủ'?",
+        "options": [
+          "Sleep",
+          "Run",
+          "Sit",
+          "Stand"
+        ],
+        "correctAnswer": "Sleep"
+      },
+      {
+        "question": "What is the English word for 'đọc'?",
+        "options": [
+          "Sing",
+          "Dance",
+          "Write",
+          "Read"
+        ],
+        "correctAnswer": "Read"
+      },
+      {
+        "question": "What is the English word for 'viết'?",
+        "options": [
+          "Read",
+          "Jump",
+          "Sing",
+          "Write"
+        ],
+        "correctAnswer": "Write"
+      },
+      {
+        "question": "What is the English word for 'hát'?",
+        "options": [
+          "Walk",
+          "Dance",
+          "Write",
+          "Sing"
+        ],
+        "correctAnswer": "Sing"
+      }
+    ]
+  },
+  {
+    "level": 9,
+    "questions": [
+      {
+        "question": "What day comes after Monday?",
+        "options": [
+          "Friday",
+          "Sunday",
+          "Wednesday",
+          "Tuesday"
+        ],
+        "correctAnswer": "Tuesday"
+      },
+      {
+        "question": "What day comes before Sunday?",
+        "options": [
+          "Tuesday",
+          "Friday",
+          "Saturday",
+          "Monday"
+        ],
+        "correctAnswer": "Saturday"
+      },
+      {
+        "question": "What is the first day of the week (in many calendars)?",
+        "options": [
+          "Monday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "correctAnswer": "Sunday"
+      },
+      {
+        "question": "What is the English word for 'hôm nay'?",
+        "options": [
+          "Yesterday",
+          "Today",
+          "Tomorrow",
+          "Now"
+        ],
+        "correctAnswer": "Today"
+      },
+      {
+        "question": "What is the English word for 'ngày mai'?",
+        "options": [
+          "Yesterday",
+          "Later",
+          "Tomorrow",
+          "Today"
+        ],
+        "correctAnswer": "Tomorrow"
+      },
+      {
+        "question": "What is the English word for 'hôm qua'?",
+        "options": [
+          "Now",
+          "Today",
+          "Yesterday",
+          "Tomorrow"
+        ],
+        "correctAnswer": "Yesterday"
+      },
+      {
+        "question": "What is the English word for 'buổi sáng'?",
+        "options": [
+          "Night",
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "correctAnswer": "Morning"
+      },
+      {
+        "question": "What is the English word for 'buổi tối'?",
+        "options": [
+          "Evening",
+          "Morning",
+          "Night",
+          "Afternoon"
+        ],
+        "correctAnswer": "Evening"
+      },
+      {
+        "question": "What day comes after Wednesday?",
+        "options": [
+          "Thursday",
+          "Monday",
+          "Friday",
+          "Tuesday"
+        ],
+        "correctAnswer": "Thursday"
+      },
+      {
+        "question": "What is the English word for 'ban đêm'?",
+        "options": [
+          "Night",
+          "Afternoon",
+          "Evening",
+          "Morning"
+        ],
+        "correctAnswer": "Night"
+      }
+    ]
+  },
+  {
+    "level": 10,
+    "questions": [
+      {
+        "question": "Complete: I ___ a student.",
+        "options": [
+          "is",
+          "are",
+          "be",
+          "am"
+        ],
+        "correctAnswer": "am"
+      },
+      {
+        "question": "Complete: She ___ a teacher.",
+        "options": [
+          "are",
+          "am",
+          "is",
+          "be"
+        ],
+        "correctAnswer": "is"
+      },
+      {
+        "question": "Complete: They ___ students.",
+        "options": [
+          "be",
+          "are",
+          "is",
+          "am"
+        ],
+        "correctAnswer": "are"
+      },
+      {
+        "question": "Choose the correct plural of 'Book'.",
+        "options": [
+          "Bookes",
+          "Book",
+          "Books",
+          "Bookies"
+        ],
+        "correctAnswer": "Books"
+      },
+      {
+        "question": "Choose the correct plural of 'Box'.",
+        "options": [
+          "Boxies",
+          "Boxes",
+          "Boxs",
+          "Box"
+        ],
+        "correctAnswer": "Boxes"
+      },
+      {
+        "question": "Complete: This is ___ apple.",
+        "options": [
+          "an",
+          "a",
+          "some",
+          "the"
+        ],
+        "correctAnswer": "an"
+      },
+      {
+        "question": "Complete: This is ___ dog.",
+        "options": [
+          "a",
+          "some",
+          "an",
+          "the"
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "Choose the correct plural of 'Cat'.",
+        "options": [
+          "Cates",
+          "Cats",
+          "Catss",
+          "Cat"
+        ],
+        "correctAnswer": "Cats"
+      },
+      {
+        "question": "Complete: He ___ happy.",
+        "options": [
+          "be",
+          "is",
+          "am",
+          "are"
+        ],
+        "correctAnswer": "is"
+      },
+      {
+        "question": "Complete: We ___ friends.",
+        "options": [
+          "is",
+          "am",
+          "are",
+          "be"
+        ],
+        "correctAnswer": "are"
+      }
+    ]
+  }
+]
