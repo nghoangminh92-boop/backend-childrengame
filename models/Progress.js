@@ -7,6 +7,12 @@ const progressSchema = new mongoose.Schema(
       ref: "User",
       required: true,
     },
+    grade: {
+      type: Number,
+      required: true,
+      min: 1,
+      max: 12,
+    },
     type: {
       type: String,
       enum: ["math", "english"],
@@ -41,8 +47,8 @@ const progressSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-// Mỗi user chỉ có 1 bản ghi progress cho mỗi (type, level) — cập nhật lại khi chơi lại
-progressSchema.index({ userId: 1, type: 1, level: 1 }, { unique: true });
+// ⭐ Đổi unique key: thêm grade
+progressSchema.index({ userId: 1, grade: 1, type: 1, level: 1 }, { unique: true });
 
 const Progress = mongoose.model("Progress", progressSchema);
 export default Progress;

@@ -37,9 +37,10 @@ const userSchema = new mongoose.Schema(
       enum: ["boy", "girl", "cat", "dog", "robot"],
       default: "robot",
     },
+    // ⭐ ĐỔI: currentLevel giờ lồng theo lớp — Map<grade, level>
     currentLevel: {
-      math: { type: Number, default: 1 },
-      english: { type: Number, default: 1 },
+      math: { type: Map, of: Number, default: {} },
+      english: { type: Map, of: Number, default: {} },
     },
     totalScore: {
       type: Number,
@@ -60,26 +61,11 @@ const userSchema = new mongoose.Schema(
       type: Boolean,
       default: false,
     },
-    verificationToken: {
-      type: String,
-      select: false,
-    },
-    verificationTokenExpires: {
-      type: Date,
-      select: false,
-    },
-    resetPasswordToken: {
-      type: String,
-      select: false,
-    },
-    resetPasswordExpires: {
-      type: Date,
-      select: false,
-    },
-    lastVerificationEmailSentAt: {
-      type: Date,
-      select: false,
-    },
+    verificationToken: { type: String, select: false },
+    verificationTokenExpires: { type: Date, select: false },
+    resetPasswordToken: { type: String, select: false },
+    resetPasswordExpires: { type: Date, select: false },
+    lastVerificationEmailSentAt: { type: Date, select: false },
   },
   { timestamps: true }
 );

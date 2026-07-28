@@ -2,6 +2,12 @@ import mongoose from "mongoose";
 
 const questionSchema = new mongoose.Schema(
   {
+    grade: {
+      type: Number,
+      required: true,
+      min: 1,
+      max: 12,
+    },
     type: {
       type: String,
       enum: ["math", "english"],
@@ -37,7 +43,7 @@ const questionSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-questionSchema.index({ type: 1, level: 1 });
+questionSchema.index({ grade: 1, type: 1, level: 1 });
 
 const Question = mongoose.model("Question", questionSchema);
 export default Question;
