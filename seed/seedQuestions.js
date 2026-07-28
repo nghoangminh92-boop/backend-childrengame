@@ -1,11 +1,11 @@
-// backend/seedQuestions.js
+// backend/seed/seedQuestions.js
 //
-// Script đọc dữ liệu câu hỏi từ các file JSON trong /data
+// Script đọc dữ liệu câu hỏi từ các file JSON trong backend/data
 // (ví dụ: math-grade1.json, english-grade1.json, math-grade2.json, ...)
 // và import vào MongoDB collection "questions" theo đúng schema Question.js
 //
-// CÁCH CHẠY:
-//   node seedQuestions.js
+// CÁCH CHẠY (từ thư mục backend, KHÔNG phải từ trong seed/):
+//   node seed/seedQuestions.js
 //
 // Yêu cầu: file .env ở backend root phải có MONGO_URI (biến đúng tên bạn dùng trong config/db.js)
 
@@ -14,14 +14,15 @@ import path from "path";
 import { fileURLToPath } from "url";
 import dotenv from "dotenv";
 import mongoose from "mongoose";
-import connectDB from "./config/db.js";
-import Question from "./models/Question.js";
+import connectDB from "../config/db.js";
+import Question from "../models/Question.js";
 
 dotenv.config();
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const DATA_DIR = path.join(__dirname, "data");
+// ⭐ File này nằm trong backend/seed/, nên phải lùi ra 1 cấp để tới backend/data
+const DATA_DIR = path.join(__dirname, "..", "data");
 
 // ⭐ Các file JSON cần import — thêm/bớt tuỳ bạn có bao nhiêu file
 // Tên file phải theo định dạng: {type}-grade{grade}.json
