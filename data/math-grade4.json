@@ -1,0 +1,152 @@
+[
+  {
+    "level": 1,
+    "questions": [
+      { "question": "Số 45.678 đọc là?", "options": ["Bốn mươi lăm nghìn sáu trăm bảy mươi tám", "Bốn mươi năm nghìn", "Bốn trăm năm mươi sáu nghìn", "Bốn mươi lăm triệu"], "correctAnswer": "Bốn mươi lăm nghìn sáu trăm bảy mươi tám" },
+      { "question": "Số nào lớn hơn: 23.456 hay 23.465?", "options": ["23.465", "23.456", "Bằng nhau", "Không so sánh được"], "correctAnswer": "23.465" },
+      { "question": "Chữ số 7 trong số 47.982 có giá trị là bao nhiêu?", "options": ["7.000", "700", "70", "7"], "correctAnswer": "7.000" },
+      { "question": "Số liền sau của 9.999 là?", "options": ["10.000", "9.998", "10.001", "9.000"], "correctAnswer": "10.000" },
+      { "question": "Số liền trước của 100.000 là?", "options": ["99.999", "100.001", "99.000", "90.000"], "correctAnswer": "99.999" },
+      { "question": "Sắp xếp theo thứ tự tăng dần: 5.400, 4.500, 5.040", "options": ["4.500, 5.040, 5.400", "5.400, 5.040, 4.500", "4.500, 5.400, 5.040", "5.040, 4.500, 5.400"], "correctAnswer": "4.500, 5.040, 5.400" },
+      { "question": "Số 100.000 có bao nhiêu chữ số?", "options": ["6", "5", "7", "4"], "correctAnswer": "6" },
+      { "question": "Chữ số 3 trong số 132.456 có giá trị là bao nhiêu?", "options": ["30.000", "3.000", "300", "3"], "correctAnswer": "30.000" },
+      { "question": "Số nào nhỏ nhất: 76.000, 76.100, 75.999?", "options": ["75.999", "76.000", "76.100", "Bằng nhau"], "correctAnswer": "75.999" },
+      { "question": "Số 8 triệu viết là?", "options": ["8.000.000", "800.000", "80.000.000", "8.000"], "correctAnswer": "8.000.000" }
+    ]
+  },
+  {
+    "level": 2,
+    "questions": [
+      { "question": "45.678 + 12.345 = ?", "options": ["58.023", "58.013", "58.033", "57.023"], "correctAnswer": "58.023" },
+      { "question": "90.000 - 34.567 = ?", "options": ["55.433", "55.443", "54.433", "56.433"], "correctAnswer": "55.433" },
+      { "question": "123.456 + 76.544 = ?", "options": ["200.000", "199.000", "201.000", "198.000"], "correctAnswer": "200.000" },
+      { "question": "500.000 - 234.789 = ?", "options": ["265.211", "265.221", "264.211", "266.211"], "correctAnswer": "265.211" },
+      { "question": "67.890 + 23.110 = ?", "options": ["91.000", "90.000", "92.000", "89.000"], "correctAnswer": "91.000" },
+      { "question": "80.000 - 45.678 = ?", "options": ["34.322", "34.332", "33.322", "35.322"], "correctAnswer": "34.322" },
+      { "question": "156.234 + 43.766 = ?", "options": ["200.000", "199.000", "201.000", "198.000"], "correctAnswer": "200.000" },
+      { "question": "245.000 - 178.500 = ?", "options": ["66.500", "66.400", "67.500", "65.500"], "correctAnswer": "66.500" },
+      { "question": "34.500 + 65.500 = ?", "options": ["100.000", "99.000", "101.000", "98.000"], "correctAnswer": "100.000" },
+      { "question": "600.000 - 245.300 = ?", "options": ["354.700", "354.600", "355.700", "353.700"], "correctAnswer": "354.700" }
+    ]
+  },
+  {
+    "level": 3,
+    "questions": [
+      { "question": "234 x 12 = ?", "options": ["2.808", "2.708", "2.908", "2.608"], "correctAnswer": "2.808" },
+      { "question": "156 x 24 = ?", "options": ["3.744", "3.644", "3.844", "3.544"], "correctAnswer": "3.744" },
+      { "question": "312 x 15 = ?", "options": ["4.680", "4.580", "4.780", "4.480"], "correctAnswer": "4.680" },
+      { "question": "425 x 18 = ?", "options": ["7.650", "7.550", "7.750", "7.450"], "correctAnswer": "7.650" },
+      { "question": "203 x 33 = ?", "options": ["6.699", "6.599", "6.799", "6.499"], "correctAnswer": "6.699" },
+      { "question": "180 x 25 = ?", "options": ["4.500", "4.400", "4.600", "4.300"], "correctAnswer": "4.500" },
+      { "question": "145 x 20 = ?", "options": ["2.900", "2.800", "3.000", "2.700"], "correctAnswer": "2.900" },
+      { "question": "267 x 14 = ?", "options": ["3.738", "3.638", "3.838", "3.538"], "correctAnswer": "3.738" },
+      { "question": "350 x 16 = ?", "options": ["5.600", "5.500", "5.700", "5.400"], "correctAnswer": "5.600" },
+      { "question": "128 x 22 = ?", "options": ["2.816", "2.716", "2.916", "2.616"], "correctAnswer": "2.816" }
+    ]
+  },
+  {
+    "level": 4,
+    "questions": [
+      { "question": "864 : 24 = ?", "options": ["36", "34", "38", "32"], "correctAnswer": "36" },
+      { "question": "750 : 25 = ?", "options": ["30", "28", "32", "26"], "correctAnswer": "30" },
+      { "question": "936 : 12 = ?", "options": ["78", "76", "80", "74"], "correctAnswer": "78" },
+      { "question": "1.008 : 18 = ?", "options": ["56", "54", "58", "52"], "correctAnswer": "56" },
+      { "question": "1.260 : 15 = ?", "options": ["84", "82", "86", "80"], "correctAnswer": "84" },
+      { "question": "672 : 16 = ?", "options": ["42", "40", "44", "38"], "correctAnswer": "42" },
+      { "question": "1.352 : 26 = ?", "options": ["52", "50", "54", "48"], "correctAnswer": "52" },
+      { "question": "810 : 27 = ?", "options": ["30", "28", "32", "26"], "correctAnswer": "30" },
+      { "question": "968 : 22 = ?", "options": ["44", "42", "46", "40"], "correctAnswer": "44" },
+      { "question": "1.485 : 33 = ?", "options": ["45", "43", "47", "41"], "correctAnswer": "45" }
+    ]
+  },
+  {
+    "level": 5,
+    "questions": [
+      { "question": "Rút gọn phân số 4/8.", "options": ["1/2", "2/4", "1/4", "4/8"], "correctAnswer": "1/2" },
+      { "question": "Rút gọn phân số 6/9.", "options": ["2/3", "3/6", "1/3", "6/9"], "correctAnswer": "2/3" },
+      { "question": "Quy đồng mẫu số 1/2 và 1/3, mẫu số chung là bao nhiêu?", "options": ["6", "5", "3", "2"], "correctAnswer": "6" },
+      { "question": "So sánh 3/4 và 2/3, phân số nào lớn hơn?", "options": ["3/4", "2/3", "Bằng nhau", "Không so sánh được"], "correctAnswer": "3/4" },
+      { "question": "Rút gọn phân số 10/15.", "options": ["2/3", "1/3", "3/5", "5/10"], "correctAnswer": "2/3" },
+      { "question": "Phân số 5/10 rút gọn bằng bao nhiêu?", "options": ["1/2", "1/5", "5/1", "2/5"], "correctAnswer": "1/2" },
+      { "question": "So sánh 1/4 và 1/5, phân số nào lớn hơn?", "options": ["1/4", "1/5", "Bằng nhau", "Không so sánh được"], "correctAnswer": "1/4" },
+      { "question": "Rút gọn phân số 12/16.", "options": ["3/4", "6/8", "2/4", "4/8"], "correctAnswer": "3/4" },
+      { "question": "Quy đồng mẫu số 2/3 và 1/4, mẫu số chung là bao nhiêu?", "options": ["12", "7", "9", "6"], "correctAnswer": "12" },
+      { "question": "Phân số 9/12 rút gọn bằng bao nhiêu?", "options": ["3/4", "1/2", "2/3", "9/12"], "correctAnswer": "3/4" }
+    ]
+  },
+  {
+    "level": 6,
+    "questions": [
+      { "question": "1/4 + 2/4 = ?", "options": ["3/4", "3/8", "1/2", "2/4"], "correctAnswer": "3/4" },
+      { "question": "2/5 + 1/5 = ?", "options": ["3/5", "3/10", "1/5", "2/5"], "correctAnswer": "3/5" },
+      { "question": "3/4 - 1/4 = ?", "options": ["1/2", "2/4", "2/8", "1/4"], "correctAnswer": "1/2" },
+      { "question": "5/6 - 2/6 = ?", "options": ["1/2", "3/6", "3/12", "1/6"], "correctAnswer": "1/2" },
+      { "question": "1/2 + 1/4 = ?", "options": ["3/4", "2/6", "1/6", "2/4"], "correctAnswer": "3/4" },
+      { "question": "1/3 + 1/6 = ?", "options": ["1/2", "2/9", "1/9", "2/6"], "correctAnswer": "1/2" },
+      { "question": "3/5 - 1/5 = ?", "options": ["2/5", "2/10", "1/5", "4/5"], "correctAnswer": "2/5" },
+      { "question": "1/2 - 1/4 = ?", "options": ["1/4", "1/2", "2/4", "1/8"], "correctAnswer": "1/4" },
+      { "question": "2/3 + 1/3 = ?", "options": ["1", "3/6", "2/3", "1/3"], "correctAnswer": "1" },
+      { "question": "7/8 - 3/8 = ?", "options": ["1/2", "4/8", "4/16", "1/4"], "correctAnswer": "1/2" }
+    ]
+  },
+  {
+    "level": 7,
+    "questions": [
+      { "question": "1/2 x 1/3 = ?", "options": ["1/6", "2/3", "1/5", "2/6"], "correctAnswer": "1/6" },
+      { "question": "2/3 x 3/4 = ?", "options": ["1/2", "6/12", "6/7", "5/7"], "correctAnswer": "1/2" },
+      { "question": "1/2 : 1/4 = ?", "options": ["2", "1/8", "4", "1/2"], "correctAnswer": "2" },
+      { "question": "3/4 x 2/3 = ?", "options": ["1/2", "6/12", "5/7", "6/7"], "correctAnswer": "1/2" },
+      { "question": "2/5 x 5/6 = ?", "options": ["1/3", "10/30", "2/6", "7/11"], "correctAnswer": "1/3" },
+      { "question": "1/3 : 1/6 = ?", "options": ["2", "1/2", "1/18", "6"], "correctAnswer": "2" },
+      { "question": "3/5 x 1/2 = ?", "options": ["3/10", "4/7", "3/7", "4/10"], "correctAnswer": "3/10" },
+      { "question": "5/6 : 1/3 = ?", "options": ["5/2", "5/18", "2/5", "1/2"], "correctAnswer": "5/2" },
+      { "question": "2/7 x 7/8 = ?", "options": ["1/4", "14/56", "9/15", "1/2"], "correctAnswer": "1/4" },
+      { "question": "4/5 : 2/5 = ?", "options": ["2", "8/25", "1/2", "4"], "correctAnswer": "2" }
+    ]
+  },
+  {
+    "level": 8,
+    "questions": [
+      { "question": "Hình bình hành có đáy 6 cm, chiều cao 4 cm. Diện tích là bao nhiêu?", "options": ["24 cm²", "20 cm²", "10 cm²", "28 cm²"], "correctAnswer": "24 cm²" },
+      { "question": "Muốn tính diện tích hình bình hành ta lấy đáy nhân với gì?", "options": ["Chiều cao", "Cạnh bên", "Chu vi", "Đường chéo"], "correctAnswer": "Chiều cao" },
+      { "question": "Hình bình hành có đáy 8 cm, chiều cao 5 cm. Diện tích là bao nhiêu?", "options": ["40 cm²", "35 cm²", "13 cm²", "45 cm²"], "correctAnswer": "40 cm²" },
+      { "question": "Hình thoi có hai đường chéo 6 cm và 4 cm. Diện tích là bao nhiêu?", "options": ["12 cm²", "24 cm²", "10 cm²", "20 cm²"], "correctAnswer": "12 cm²" },
+      { "question": "Muốn tính diện tích hình thoi ta lấy tích hai đường chéo chia cho mấy?", "options": ["2", "4", "3", "1"], "correctAnswer": "2" },
+      { "question": "Hình thoi có hai đường chéo 10 cm và 8 cm. Diện tích là bao nhiêu?", "options": ["40 cm²", "80 cm²", "18 cm²", "36 cm²"], "correctAnswer": "40 cm²" },
+      { "question": "Hình bình hành có diện tích 30 cm², đáy 6 cm. Chiều cao là bao nhiêu?", "options": ["5 cm", "4 cm", "6 cm", "3 cm"], "correctAnswer": "5 cm" },
+      { "question": "Hình bình hành có đáy 10 cm, chiều cao 3 cm. Diện tích là bao nhiêu?", "options": ["30 cm²", "26 cm²", "13 cm²", "33 cm²"], "correctAnswer": "30 cm²" },
+      { "question": "Hình thoi có hai đường chéo 12 cm và 5 cm. Diện tích là bao nhiêu?", "options": ["30 cm²", "60 cm²", "17 cm²", "35 cm²"], "correctAnswer": "30 cm²" },
+      { "question": "Hình bình hành có đáy 7 cm, chiều cao 6 cm. Diện tích là bao nhiêu?", "options": ["42 cm²", "36 cm²", "13 cm²", "48 cm²"], "correctAnswer": "42 cm²" }
+    ]
+  },
+  {
+    "level": 9,
+    "questions": [
+      { "question": "1 m² bằng bao nhiêu dm²?", "options": ["100 dm²", "10 dm²", "1000 dm²", "1 dm²"], "correctAnswer": "100 dm²" },
+      { "question": "1 dm² bằng bao nhiêu cm²?", "options": ["100 cm²", "10 cm²", "1000 cm²", "1 cm²"], "correctAnswer": "100 cm²" },
+      { "question": "1 km² bằng bao nhiêu m²?", "options": ["1.000.000 m²", "1.000 m²", "10.000 m²", "100.000 m²"], "correctAnswer": "1.000.000 m²" },
+      { "question": "5 m² bằng bao nhiêu dm²?", "options": ["500 dm²", "50 dm²", "5000 dm²", "5 dm²"], "correctAnswer": "500 dm²" },
+      { "question": "3 dm² bằng bao nhiêu cm²?", "options": ["300 cm²", "30 cm²", "3000 cm²", "3 cm²"], "correctAnswer": "300 cm²" },
+      { "question": "200 dm² bằng bao nhiêu m²?", "options": ["2 m²", "20 m²", "0,2 m²", "200 m²"], "correctAnswer": "2 m²" },
+      { "question": "1 ha bằng bao nhiêu m²?", "options": ["10.000 m²", "1.000 m²", "100.000 m²", "1.000.000 m²"], "correctAnswer": "10.000 m²" },
+      { "question": "2 m² 50 dm² bằng bao nhiêu dm²?", "options": ["250 dm²", "205 dm²", "2050 dm²", "25 dm²"], "correctAnswer": "250 dm²" },
+      { "question": "700 cm² bằng bao nhiêu dm²?", "options": ["7 dm²", "70 dm²", "0,7 dm²", "700 dm²"], "correctAnswer": "7 dm²" },
+      { "question": "4 m² bằng bao nhiêu cm²?", "options": ["40.000 cm²", "4.000 cm²", "400 cm²", "400.000 cm²"], "correctAnswer": "40.000 cm²" }
+    ]
+  },
+  {
+    "level": 10,
+    "questions": [
+      { "question": "Một đội có 24 nam và 36 nữ. Tỉ số giữa số nam và số nữ là bao nhiêu?", "options": ["24:36 = 2:3", "36:24 = 3:2", "2:3 hoặc 3:2 tùy hỏi", "24:36 = 1:2"], "correctAnswer": "24:36 = 2:3" },
+      { "question": "Một lớp có 40 học sinh, số học sinh nam bằng 3/5 số học sinh nữ. Tỉ số nam:nữ là?", "options": ["3:5", "5:3", "3:8", "5:8"], "correctAnswer": "3:5" },
+      { "question": "Tổng hai số là 45, tỉ số của hai số là 2:3. Tìm số bé.", "options": ["18", "27", "20", "25"], "correctAnswer": "18" },
+      { "question": "Tổng hai số là 60, tỉ số của hai số là 1:2. Tìm số lớn.", "options": ["40", "20", "30", "45"], "correctAnswer": "40" },
+      { "question": "Một vườn có 20 cây cam và 30 cây bưởi. Tỉ số cây cam và cây bưởi là?", "options": ["2:3", "3:2", "1:2", "2:1"], "correctAnswer": "2:3" },
+      { "question": "Hiệu hai số là 12, tỉ số của hai số là 1:3. Tìm số bé.", "options": ["6", "8", "4", "10"], "correctAnswer": "6" },
+      { "question": "Tổng hai số là 100, tỉ số là 2:3. Tìm số lớn.", "options": ["60", "40", "50", "70"], "correctAnswer": "60" },
+      { "question": "Một đội bóng có 15 cầu thủ, tỉ số cầu thủ tấn công và phòng thủ là 2:3. Số cầu thủ tấn công là bao nhiêu?", "options": ["6", "9", "5", "10"], "correctAnswer": "6" },
+      { "question": "Hiệu hai số là 18, tỉ số là 2:5. Tìm số lớn.", "options": ["30", "12", "24", "36"], "correctAnswer": "30" },
+      { "question": "Tổng hai số là 72, tỉ số là 3:5. Tìm số bé.", "options": ["27", "45", "24", "30"], "correctAnswer": "27" }
+    ]
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "level": 1,
+    "questions": [
+      { "question": "What is the English word for 'cái cặp sách'?", "options": ["Book", "Bag", "Pen", "Ruler"], "correctAnswer": "Bag" },
+      { "question": "What is the English word for 'quyển vở'?", "options": ["Notebook", "Bag", "Pencil", "Eraser"], "correctAnswer": "Notebook" },
+      { "question": "What is the English word for 'cái bút chì'?", "options": ["Pen", "Pencil", "Ruler", "Book"], "correctAnswer": "Pencil" },
+      { "question": "What is the English word for 'cây thước kẻ'?", "options": ["Ruler", "Pen", "Bag", "Eraser"], "correctAnswer": "Ruler" },
+      { "question": "What is the English word for 'cục tẩy'?", "options": ["Pencil", "Eraser", "Ruler", "Book"], "correctAnswer": "Eraser" },
+      { "question": "What is the English word for 'cây bút mực'?", "options": ["Pen", "Pencil", "Ruler", "Bag"], "correctAnswer": "Pen" },
+      { "question": "What is the English word for 'quyển sách'?", "options": ["Book", "Bag", "Pen", "Notebook"], "correctAnswer": "Book" },
+      { "question": "What is the English word for 'hộp bút'?", "options": ["Pencil case", "Bag", "Book", "Ruler"], "correctAnswer": "Pencil case" },
+      { "question": "What is the English word for 'cái bảng'?", "options": ["Board", "Desk", "Chair", "Bag"], "correctAnswer": "Board" },
+      { "question": "What is the English word for 'cái bàn'?", "options": ["Desk", "Board", "Chair", "Bag"], "correctAnswer": "Desk" }
+    ]
+  },
+  {
+    "level": 2,
+    "questions": [
+      { "question": "What is the English word for 'trời nắng'?", "options": ["Sunny", "Rainy", "Windy", "Snowy"], "correctAnswer": "Sunny" },
+      { "question": "What is the English word for 'trời mưa'?", "options": ["Sunny", "Rainy", "Cloudy", "Hot"], "correctAnswer": "Rainy" },
+      { "question": "What is the English word for 'trời có gió'?", "options": ["Windy", "Sunny", "Cold", "Rainy"], "correctAnswer": "Windy" },
+      { "question": "What is the English word for 'trời có tuyết'?", "options": ["Snowy", "Sunny", "Windy", "Rainy"], "correctAnswer": "Snowy" },
+      { "question": "What is the English word for 'trời nhiều mây'?", "options": ["Cloudy", "Sunny", "Hot", "Cold"], "correctAnswer": "Cloudy" },
+      { "question": "What is the English word for 'nóng'?", "options": ["Hot", "Cold", "Cool", "Warm"], "correctAnswer": "Hot" },
+      { "question": "What is the English word for 'lạnh'?", "options": ["Cold", "Hot", "Warm", "Sunny"], "correctAnswer": "Cold" },
+      { "question": "Complete: It is ___ today, take an umbrella.", "options": ["rainy", "sunny", "hot", "windy"], "correctAnswer": "rainy" },
+      { "question": "What is the English word for 'ấm áp'?", "options": ["Warm", "Cold", "Snowy", "Windy"], "correctAnswer": "Warm" },
+      { "question": "Complete: Wear a coat, it is ___.", "options": ["cold", "hot", "sunny", "warm"], "correctAnswer": "cold" }
+    ]
+  },
+  {
+    "level": 3,
+    "questions": [
+      { "question": "What is the English word for 'trường học'?", "options": ["School", "Hospital", "Market", "Park"], "correctAnswer": "School" },
+      { "question": "What is the English word for 'bệnh viện'?", "options": ["Hospital", "School", "Market", "Zoo"], "correctAnswer": "Hospital" },
+      { "question": "What is the English word for 'chợ/siêu thị'?", "options": ["Market", "School", "Park", "Zoo"], "correctAnswer": "Market" },
+      { "question": "What is the English word for 'công viên'?", "options": ["Park", "Market", "School", "Hospital"], "correctAnswer": "Park" },
+      { "question": "What is the English word for 'sở thú'?", "options": ["Zoo", "Park", "School", "Market"], "correctAnswer": "Zoo" },
+      { "question": "What is the English word for 'thư viện'?", "options": ["Library", "School", "Market", "Park"], "correctAnswer": "Library" },
+      { "question": "What is the English word for 'đồn công an'?", "options": ["Police station", "Hospital", "School", "Market"], "correctAnswer": "Police station" },
+      { "question": "What is the English word for 'nhà hàng'?", "options": ["Restaurant", "School", "Zoo", "Park"], "correctAnswer": "Restaurant" },
+      { "question": "What is the English word for 'rạp chiếu phim'?", "options": ["Cinema", "Library", "Hospital", "Market"], "correctAnswer": "Cinema" },
+      { "question": "What is the English word for 'bưu điện'?", "options": ["Post office", "Police station", "School", "Zoo"], "correctAnswer": "Post office" }
+    ]
+  },
+  {
+    "level": 4,
+    "questions": [
+      { "question": "What is the English word for 'phòng ngủ'?", "options": ["Bedroom", "Kitchen", "Bathroom", "Living room"], "correctAnswer": "Bedroom" },
+      { "question": "What is the English word for 'phòng bếp'?", "options": ["Kitchen", "Bedroom", "Bathroom", "Garden"], "correctAnswer": "Kitchen" },
+      { "question": "What is the English word for 'phòng tắm'?", "options": ["Bathroom", "Kitchen", "Bedroom", "Living room"], "correctAnswer": "Bathroom" },
+      { "question": "What is the English word for 'phòng khách'?", "options": ["Living room", "Bedroom", "Kitchen", "Bathroom"], "correctAnswer": "Living room" },
+      { "question": "What is the English word for 'khu vườn'?", "options": ["Garden", "Kitchen", "Bathroom", "Bedroom"], "correctAnswer": "Garden" },
+      { "question": "What is the English word for 'cái giường'?", "options": ["Bed", "Chair", "Table", "Door"], "correctAnswer": "Bed" },
+      { "question": "What is the English word for 'cái ghế'?", "options": ["Chair", "Bed", "Table", "Window"], "correctAnswer": "Chair" },
+      { "question": "What is the English word for 'cánh cửa'?", "options": ["Door", "Window", "Bed", "Chair"], "correctAnswer": "Door" },
+      { "question": "What is the English word for 'cửa sổ'?", "options": ["Window", "Door", "Bed", "Chair"], "correctAnswer": "Window" },
+      { "question": "What is the English word for 'cái tủ lạnh'?", "options": ["Fridge", "Bed", "Chair", "Door"], "correctAnswer": "Fridge" }
+    ]
+  },
+  {
+    "level": 5,
+    "questions": [
+      { "question": "What is the English word for 'cơm'?", "options": ["Rice", "Bread", "Noodles", "Milk"], "correctAnswer": "Rice" },
+      { "question": "What is the English word for 'bánh mì'?", "options": ["Bread", "Rice", "Noodles", "Egg"], "correctAnswer": "Bread" },
+      { "question": "What is the English word for 'mì'?", "options": ["Noodles", "Rice", "Bread", "Milk"], "correctAnswer": "Noodles" },
+      { "question": "What is the English word for 'sữa'?", "options": ["Milk", "Water", "Juice", "Tea"], "correctAnswer": "Milk" },
+      { "question": "What is the English word for 'nước'?", "options": ["Water", "Milk", "Juice", "Tea"], "correctAnswer": "Water" },
+      { "question": "What is the English word for 'nước ép'?", "options": ["Juice", "Water", "Milk", "Tea"], "correctAnswer": "Juice" },
+      { "question": "What is the English word for 'trứng'?", "options": ["Egg", "Rice", "Bread", "Noodles"], "correctAnswer": "Egg" },
+      { "question": "What is the English word for 'trà'?", "options": ["Tea", "Milk", "Juice", "Water"], "correctAnswer": "Tea" },
+      { "question": "What is the English word for 'thịt gà'?", "options": ["Chicken", "Beef", "Fish", "Pork"], "correctAnswer": "Chicken" },
+      { "question": "What is the English word for 'cá'?", "options": ["Fish", "Chicken", "Beef", "Pork"], "correctAnswer": "Fish" }
+    ]
+  },
+  {
+    "level": 6,
+    "questions": [
+      { "question": "What is the English word for 'cái áo sơ mi'?", "options": ["Shirt", "Skirt", "Pants", "Hat"], "correctAnswer": "Shirt" },
+      { "question": "What is the English word for 'cái quần'?", "options": ["Pants", "Shirt", "Skirt", "Shoes"], "correctAnswer": "Pants" },
+      { "question": "What is the English word for 'cái váy'?", "options": ["Skirt", "Shirt", "Pants", "Hat"], "correctAnswer": "Skirt" },
+      { "question": "What is the English word for 'đôi giày'?", "options": ["Shoes", "Socks", "Hat", "Shirt"], "correctAnswer": "Shoes" },
+      { "question": "What is the English word for 'đôi tất'?", "options": ["Socks", "Shoes", "Hat", "Pants"], "correctAnswer": "Socks" },
+      { "question": "What is the English word for 'cái mũ'?", "options": ["Hat", "Shoes", "Socks", "Shirt"], "correctAnswer": "Hat" },
+      { "question": "What is the English word for 'áo khoác'?", "options": ["Jacket", "Skirt", "Socks", "Hat"], "correctAnswer": "Jacket" },
+      { "question": "What is the English word for 'chiếc váy đầm'?", "options": ["Dress", "Shirt", "Pants", "Shoes"], "correctAnswer": "Dress" },
+      { "question": "What is the English word for 'chiếc khăn quàng cổ'?", "options": ["Scarf", "Hat", "Socks", "Jacket"], "correctAnswer": "Scarf" },
+      { "question": "What is the English word for 'đôi găng tay'?", "options": ["Gloves", "Socks", "Shoes", "Scarf"], "correctAnswer": "Gloves" }
+    ]
+  },
+  {
+    "level": 7,
+    "questions": [
+      { "question": "Complete: She ___ to school every day.", "options": ["goes", "go", "going", "went"], "correctAnswer": "goes" },
+      { "question": "Complete: I ___ breakfast every morning.", "options": ["eat", "eats", "eating", "ate"], "correctAnswer": "eat" },
+      { "question": "Complete: They ___ football on Sundays.", "options": ["play", "plays", "playing", "played"], "correctAnswer": "play" },
+      { "question": "Complete: He ___ his teeth twice a day.", "options": ["brushes", "brush", "brushing", "brushed"], "correctAnswer": "brushes" },
+      { "question": "Complete: We ___ TV in the evening.", "options": ["watch", "watches", "watching", "watched"], "correctAnswer": "watch" },
+      { "question": "Complete: My mother ___ dinner every day.", "options": ["cooks", "cook", "cooking", "cooked"], "correctAnswer": "cooks" },
+      { "question": "Complete: The sun ___ in the east.", "options": ["rises", "rise", "rising", "rose"], "correctAnswer": "rises" },
+      { "question": "Complete: Cats ___ milk.", "options": ["drink", "drinks", "drinking", "drank"], "correctAnswer": "drink" },
+      { "question": "Complete: My father ___ to work by car.", "options": ["goes", "go", "going", "went"], "correctAnswer": "goes" },
+      { "question": "Complete: I ___ my homework every night.", "options": ["do", "does", "doing", "did"], "correctAnswer": "do" }
+    ]
+  },
+  {
+    "level": 8,
+    "questions": [
+      { "question": "The cat is ___ the box. (trong)", "options": ["in", "on", "under", "next to"], "correctAnswer": "in" },
+      { "question": "The book is ___ the table. (trên)", "options": ["on", "in", "under", "behind"], "correctAnswer": "on" },
+      { "question": "The ball is ___ the bed. (dưới)", "options": ["under", "on", "in", "in front of"], "correctAnswer": "under" },
+      { "question": "The dog is ___ the tree. (bên cạnh)", "options": ["next to", "under", "on", "behind"], "correctAnswer": "next to" },
+      { "question": "The car is ___ the house. (phía sau)", "options": ["behind", "in front of", "on", "under"], "correctAnswer": "behind" },
+      { "question": "The chair is ___ the desk. (phía trước)", "options": ["in front of", "behind", "under", "on"], "correctAnswer": "in front of" },
+      { "question": "The keys are ___ my bag. (trong)", "options": ["in", "on", "under", "next to"], "correctAnswer": "in" },
+      { "question": "The lamp is ___ the desk. (trên)", "options": ["on", "in", "under", "behind"], "correctAnswer": "on" },
+      { "question": "The shoes are ___ the bed. (dưới)", "options": ["under", "on", "next to", "in"], "correctAnswer": "under" },
+      { "question": "The picture is ___ the wall. (trên)", "options": ["on", "in", "under", "behind"], "correctAnswer": "on" }
+    ]
+  },
+  {
+    "level": 9,
+    "questions": [
+      { "question": "What is the English word for 'sở thích'?", "options": ["Hobby", "Job", "School", "Family"], "correctAnswer": "Hobby" },
+      { "question": "What is the English word for 'đọc sách' (sở thích)?", "options": ["Reading", "Running", "Cooking", "Swimming"], "correctAnswer": "Reading" },
+      { "question": "What is the English word for 'vẽ tranh'?", "options": ["Drawing", "Reading", "Singing", "Dancing"], "correctAnswer": "Drawing" },
+      { "question": "What is the English word for 'chơi trò chơi điện tử'?", "options": ["Playing video games", "Reading", "Cooking", "Swimming"], "correctAnswer": "Playing video games" },
+      { "question": "What is the English word for 'nghe nhạc'?", "options": ["Listening to music", "Watching TV", "Reading", "Drawing"], "correctAnswer": "Listening to music" },
+      { "question": "What is the English word for 'nấu ăn'?", "options": ["Cooking", "Drawing", "Reading", "Singing"], "correctAnswer": "Cooking" },
+      { "question": "What is the English word for 'nhảy múa'?", "options": ["Dancing", "Singing", "Reading", "Drawing"], "correctAnswer": "Dancing" },
+      { "question": "What is the English word for 'câu cá'?", "options": ["Fishing", "Swimming", "Reading", "Cooking"], "correctAnswer": "Fishing" },
+      { "question": "What is the English word for 'chụp ảnh'?", "options": ["Taking photos", "Drawing", "Reading", "Dancing"], "correctAnswer": "Taking photos" },
+      { "question": "What is the English word for 'làm vườn'?", "options": ["Gardening", "Cooking", "Fishing", "Reading"], "correctAnswer": "Gardening" }
+    ]
+  },
+  {
+    "level": 10,
+    "questions": [
+      { "question": "A: 'How are you?' B: '___'", "options": ["I'm fine, thanks.", "I am ten.", "It's Monday.", "Yes, I do."], "correctAnswer": "I'm fine, thanks." },
+      { "question": "A: 'What's your name?' B: '___'", "options": ["My name is Lan.", "I am fine.", "I am ten.", "It's sunny."], "correctAnswer": "My name is Lan." },
+      { "question": "A: 'How old are you?' B: '___'", "options": ["I am eight years old.", "My name is Nam.", "I'm fine.", "It's blue."], "correctAnswer": "I am eight years old." },
+      { "question": "A: 'Where do you live?' B: '___'", "options": ["I live in Hanoi.", "I am ten.", "It's Monday.", "I'm fine."], "correctAnswer": "I live in Hanoi." },
+      { "question": "A: 'What time is it?' B: '___'", "options": ["It's 7 o'clock.", "I am fine.", "I live here.", "My name is Tom."], "correctAnswer": "It's 7 o'clock." },
+      { "question": "A: 'Can I have some water, please?' B: '___'", "options": ["Sure, here you are.", "I am ten.", "It's sunny.", "See you."], "correctAnswer": "Sure, here you are." },
+      { "question": "A: 'Do you like apples?' B: '___'", "options": ["Yes, I do.", "I am eight.", "It's red.", "I live here."], "correctAnswer": "Yes, I do." },
+      { "question": "A: 'What day is it today?' B: '___'", "options": ["It's Monday.", "I am fine.", "I live in Hue.", "It's 7 o'clock."], "correctAnswer": "It's Monday." },
+      { "question": "A: 'Goodbye!' B: '___'", "options": ["See you later!", "I'm fine.", "It's sunny.", "Yes, I do."], "correctAnswer": "See you later!" },
+      { "question": "A: 'Thank you very much.' B: '___'", "options": ["You're welcome.", "I am ten.", "It's Monday.", "Yes, I do."], "correctAnswer": "You're welcome." }
+    ]
+  }
+]

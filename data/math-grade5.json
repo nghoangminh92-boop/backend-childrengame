@@ -1,0 +1,152 @@
+[
+  {
+    "level": 1,
+    "questions": [
+      { "question": "1/2 + 1/3 = ?", "options": ["5/6", "2/5", "1/6", "2/6"], "correctAnswer": "5/6" },
+      { "question": "3/4 - 1/2 = ?", "options": ["1/4", "2/4", "1/2", "2/2"], "correctAnswer": "1/4" },
+      { "question": "2/3 x 3/5 = ?", "options": ["2/5", "6/15", "6/8", "5/8"], "correctAnswer": "2/5" },
+      { "question": "1/2 : 1/4 = ?", "options": ["2", "1/8", "4", "1/2"], "correctAnswer": "2" },
+      { "question": "Rút gọn phân số 8/12.", "options": ["2/3", "4/6", "1/3", "3/4"], "correctAnswer": "2/3" },
+      { "question": "So sánh 2/3 và 3/4, phân số nào lớn hơn?", "options": ["3/4", "2/3", "Bằng nhau", "Không so sánh được"], "correctAnswer": "3/4" },
+      { "question": "3/5 + 1/5 = ?", "options": ["4/5", "4/10", "3/10", "2/5"], "correctAnswer": "4/5" },
+      { "question": "5/6 - 1/3 = ?", "options": ["1/2", "4/3", "3/6", "2/3"], "correctAnswer": "1/2" },
+      { "question": "1/4 x 2/3 = ?", "options": ["1/6", "2/12", "3/7", "2/7"], "correctAnswer": "1/6" },
+      { "question": "2/5 : 4/5 = ?", "options": ["1/2", "8/25", "2", "4/10"], "correctAnswer": "1/2" }
+    ]
+  },
+  {
+    "level": 2,
+    "questions": [
+      { "question": "Số thập phân 3,5 đọc là?", "options": ["Ba phẩy năm", "Ba mươi lăm", "Ba chấm năm", "Năm phẩy ba"], "correctAnswer": "Ba phẩy năm" },
+      { "question": "Số nào lớn hơn: 4,25 hay 4,3?", "options": ["4,3", "4,25", "Bằng nhau", "Không so sánh được"], "correctAnswer": "4,3" },
+      { "question": "Số nào nhỏ hơn: 0,7 hay 0,68?", "options": ["0,68", "0,7", "Bằng nhau", "Không so sánh được"], "correctAnswer": "0,68" },
+      { "question": "Chuyển phân số 1/2 thành số thập phân.", "options": ["0,5", "0,2", "0,05", "5,0"], "correctAnswer": "0,5" },
+      { "question": "Chuyển phân số 1/4 thành số thập phân.", "options": ["0,25", "0,4", "0,14", "4,0"], "correctAnswer": "0,25" },
+      { "question": "Số thập phân 12,05 có phần thập phân là bao nhiêu?", "options": ["05", "12", "5", "0"], "correctAnswer": "05" },
+      { "question": "Sắp xếp tăng dần: 2,3 ; 2,03 ; 2,33", "options": ["2,03 ; 2,3 ; 2,33", "2,3 ; 2,03 ; 2,33", "2,33 ; 2,3 ; 2,03", "2,03 ; 2,33 ; 2,3"], "correctAnswer": "2,03 ; 2,3 ; 2,33" },
+      { "question": "Số nào bằng 3/4 dưới dạng thập phân?", "options": ["0,75", "0,34", "0,43", "7,4"], "correctAnswer": "0,75" },
+      { "question": "Số liền sau của 5,9 (tăng thêm 0,1) là?", "options": ["6,0", "5,10", "6,9", "5,91"], "correctAnswer": "6,0" },
+      { "question": "Số nào lớn nhất: 1,5 ; 1,05 ; 1,55?", "options": ["1,55", "1,5", "1,05", "Bằng nhau"], "correctAnswer": "1,55" }
+    ]
+  },
+  {
+    "level": 3,
+    "questions": [
+      { "question": "3,5 + 2,4 = ?", "options": ["5,9", "5,8", "6,0", "5,7"], "correctAnswer": "5,9" },
+      { "question": "7,8 - 3,2 = ?", "options": ["4,6", "4,5", "4,7", "4,4"], "correctAnswer": "4,6" },
+      { "question": "12,5 + 6,7 = ?", "options": ["19,2", "19,1", "19,3", "19,0"], "correctAnswer": "19,2" },
+      { "question": "20,0 - 8,45 = ?", "options": ["11,55", "11,45", "11,65", "11,50"], "correctAnswer": "11,55" },
+      { "question": "4,25 + 3,75 = ?", "options": ["8,0", "7,9", "8,1", "7,95"], "correctAnswer": "8,0" },
+      { "question": "9,6 - 4,8 = ?", "options": ["4,8", "4,7", "4,9", "5,0"], "correctAnswer": "4,8" },
+      { "question": "15,3 + 2,45 = ?", "options": ["17,75", "17,65", "17,85", "17,55"], "correctAnswer": "17,75" },
+      { "question": "30,0 - 12,25 = ?", "options": ["17,75", "17,65", "17,85", "18,00"], "correctAnswer": "17,75" },
+      { "question": "6,08 + 1,92 = ?", "options": ["8,0", "7,9", "8,1", "7,99"], "correctAnswer": "8,0" },
+      { "question": "10,5 - 6,75 = ?", "options": ["3,75", "3,65", "3,85", "4,25"], "correctAnswer": "3,75" }
+    ]
+  },
+  {
+    "level": 4,
+    "questions": [
+      { "question": "2,5 x 4 = ?", "options": ["10", "9", "11", "12"], "correctAnswer": "10" },
+      { "question": "3,6 x 2 = ?", "options": ["7,2", "7,0", "7,4", "6,8"], "correctAnswer": "7,2" },
+      { "question": "8,4 : 2 = ?", "options": ["4,2", "4,0", "4,4", "3,8"], "correctAnswer": "4,2" },
+      { "question": "9,6 : 3 = ?", "options": ["3,2", "3,0", "3,4", "2,8"], "correctAnswer": "3,2" },
+      { "question": "1,5 x 6 = ?", "options": ["9,0", "8,5", "9,5", "8,0"], "correctAnswer": "9,0" },
+      { "question": "12,4 : 4 = ?", "options": ["3,1", "3,0", "3,2", "2,9"], "correctAnswer": "3,1" },
+      { "question": "2,25 x 4 = ?", "options": ["9,0", "8,5", "9,5", "8,0"], "correctAnswer": "9,0" },
+      { "question": "15,6 : 2 = ?", "options": ["7,8", "7,6", "8,0", "7,4"], "correctAnswer": "7,8" },
+      { "question": "3,3 x 3 = ?", "options": ["9,9", "9,6", "10,0", "9,3"], "correctAnswer": "9,9" },
+      { "question": "18,0 : 5 = ?", "options": ["3,6", "3,5", "3,7", "3,4"], "correctAnswer": "3,6" }
+    ]
+  },
+  {
+    "level": 5,
+    "questions": [
+      { "question": "Tìm 50% của 40.", "options": ["20", "15", "25", "30"], "correctAnswer": "20" },
+      { "question": "Tìm 25% của 80.", "options": ["20", "15", "25", "40"], "correctAnswer": "20" },
+      { "question": "Tìm 10% của 150.", "options": ["15", "10", "20", "25"], "correctAnswer": "15" },
+      { "question": "Một lớp có 40 học sinh, 25% là học sinh giỏi. Có bao nhiêu học sinh giỏi?", "options": ["10", "8", "12", "15"], "correctAnswer": "10" },
+      { "question": "20 là bao nhiêu phần trăm của 100?", "options": ["20%", "10%", "25%", "50%"], "correctAnswer": "20%" },
+      { "question": "Một cửa hàng giảm giá 20% cho món hàng 500.000 đồng. Số tiền giảm là bao nhiêu?", "options": ["100.000 đồng", "80.000 đồng", "120.000 đồng", "50.000 đồng"], "correctAnswer": "100.000 đồng" },
+      { "question": "75% của 200 là bao nhiêu?", "options": ["150", "140", "160", "175"], "correctAnswer": "150" },
+      { "question": "15 là bao nhiêu phần trăm của 60?", "options": ["25%", "15%", "20%", "30%"], "correctAnswer": "25%" },
+      { "question": "Một đội có 50 người, 40% là nữ. Có bao nhiêu người nữ?", "options": ["20", "15", "25", "30"], "correctAnswer": "20" },
+      { "question": "Tìm 5% của 200.", "options": ["10", "5", "15", "20"], "correctAnswer": "10" }
+    ]
+  },
+  {
+    "level": 6,
+    "questions": [
+      { "question": "Hình tam giác có đáy 8 cm, chiều cao 5 cm. Diện tích là bao nhiêu?", "options": ["20 cm²", "40 cm²", "13 cm²", "26 cm²"], "correctAnswer": "20 cm²" },
+      { "question": "Muốn tính diện tích hình tam giác ta lấy đáy nhân chiều cao rồi chia cho mấy?", "options": ["2", "3", "4", "1"], "correctAnswer": "2" },
+      { "question": "Hình tam giác có đáy 10 cm, chiều cao 6 cm. Diện tích là bao nhiêu?", "options": ["30 cm²", "60 cm²", "16 cm²", "50 cm²"], "correctAnswer": "30 cm²" },
+      { "question": "Hình tam giác có diện tích 24 cm², đáy 8 cm. Chiều cao là bao nhiêu?", "options": ["6 cm", "3 cm", "4 cm", "8 cm"], "correctAnswer": "6 cm" },
+      { "question": "Hình tam giác có đáy 12 cm, chiều cao 4 cm. Diện tích là bao nhiêu?", "options": ["24 cm²", "48 cm²", "16 cm²", "36 cm²"], "correctAnswer": "24 cm²" },
+      { "question": "Hình tam giác có bao nhiêu cạnh và bao nhiêu góc?", "options": ["3 cạnh, 3 góc", "4 cạnh, 4 góc", "3 cạnh, 4 góc", "4 cạnh, 3 góc"], "correctAnswer": "3 cạnh, 3 góc" },
+      { "question": "Hình tam giác có đáy 14 cm, chiều cao 5 cm. Diện tích là bao nhiêu?", "options": ["35 cm²", "70 cm²", "19 cm²", "45 cm²"], "correctAnswer": "35 cm²" },
+      { "question": "Hình tam giác có diện tích 18 cm², chiều cao 6 cm. Đáy là bao nhiêu?", "options": ["6 cm", "3 cm", "12 cm", "9 cm"], "correctAnswer": "6 cm" },
+      { "question": "Hình tam giác có đáy 9 cm, chiều cao 8 cm. Diện tích là bao nhiêu?", "options": ["36 cm²", "72 cm²", "17 cm²", "40 cm²"], "correctAnswer": "36 cm²" },
+      { "question": "Hình tam giác vuông có hai cạnh góc vuông là 6 cm và 8 cm. Diện tích là bao nhiêu?", "options": ["24 cm²", "48 cm²", "14 cm²", "28 cm²"], "correctAnswer": "24 cm²" }
+    ]
+  },
+  {
+    "level": 7,
+    "questions": [
+      { "question": "Hình thang có hai đáy 8 cm và 6 cm, chiều cao 4 cm. Diện tích là bao nhiêu?", "options": ["28 cm²", "56 cm²", "18 cm²", "24 cm²"], "correctAnswer": "28 cm²" },
+      { "question": "Muốn tính diện tích hình thang ta lấy tổng hai đáy nhân chiều cao rồi chia cho mấy?", "options": ["2", "4", "3", "1"], "correctAnswer": "2" },
+      { "question": "Hình thang có hai đáy 10 cm và 6 cm, chiều cao 5 cm. Diện tích là bao nhiêu?", "options": ["40 cm²", "80 cm²", "16 cm²", "50 cm²"], "correctAnswer": "40 cm²" },
+      { "question": "Hình thang có hai đáy 12 cm và 8 cm, chiều cao 3 cm. Diện tích là bao nhiêu?", "options": ["30 cm²", "60 cm²", "20 cm²", "23 cm²"], "correctAnswer": "30 cm²" },
+      { "question": "Hình thang có bao nhiêu cạnh đáy?", "options": ["2 (đáy lớn và đáy bé)", "1", "3", "4"], "correctAnswer": "2 (đáy lớn và đáy bé)" },
+      { "question": "Hình thang có hai đáy 14 cm và 10 cm, chiều cao 6 cm. Diện tích là bao nhiêu?", "options": ["72 cm²", "144 cm²", "24 cm²", "60 cm²"], "correctAnswer": "72 cm²" },
+      { "question": "Hình thang có diện tích 45 cm², chiều cao 5 cm, đáy lớn 10 cm. Đáy bé là bao nhiêu?", "options": ["8 cm", "9 cm", "7 cm", "6 cm"], "correctAnswer": "8 cm" },
+      { "question": "Hình thang có hai đáy 9 cm và 7 cm, chiều cao 4 cm. Diện tích là bao nhiêu?", "options": ["32 cm²", "64 cm²", "16 cm²", "36 cm²"], "correctAnswer": "32 cm²" },
+      { "question": "Hình thang vuông có một cạnh bên vuông góc với hai đáy, cạnh đó gọi là gì?", "options": ["Chiều cao", "Đáy lớn", "Đáy bé", "Cạnh xiên"], "correctAnswer": "Chiều cao" },
+      { "question": "Hình thang có hai đáy 16 cm và 12 cm, chiều cao 5 cm. Diện tích là bao nhiêu?", "options": ["70 cm²", "140 cm²", "28 cm²", "56 cm²"], "correctAnswer": "70 cm²" }
+    ]
+  },
+  {
+    "level": 8,
+    "questions": [
+      { "question": "Hình hộp chữ nhật có chiều dài 5 cm, rộng 3 cm, cao 4 cm. Thể tích là bao nhiêu?", "options": ["60 cm³", "40 cm³", "35 cm³", "48 cm³"], "correctAnswer": "60 cm³" },
+      { "question": "Muốn tính thể tích hình hộp chữ nhật ta lấy dài x rộng x mấy?", "options": ["Cao", "Chu vi", "Diện tích đáy", "Cạnh"], "correctAnswer": "Cao" },
+      { "question": "Hình lập phương có cạnh 4 cm. Thể tích là bao nhiêu?", "options": ["64 cm³", "16 cm³", "48 cm³", "32 cm³"], "correctAnswer": "64 cm³" },
+      { "question": "Muốn tính thể tích hình lập phương ta lấy cạnh nhân với cạnh rồi nhân với mấy?", "options": ["Cạnh (chính nó)", "2", "4", "6"], "correctAnswer": "Cạnh (chính nó)" },
+      { "question": "Hình hộp chữ nhật có chiều dài 6 cm, rộng 4 cm, cao 3 cm. Thể tích là bao nhiêu?", "options": ["72 cm³", "48 cm³", "36 cm³", "24 cm³"], "correctAnswer": "72 cm³" },
+      { "question": "Hình lập phương có cạnh 5 cm. Thể tích là bao nhiêu?", "options": ["125 cm³", "25 cm³", "100 cm³", "75 cm³"], "correctAnswer": "125 cm³" },
+      { "question": "Hình hộp chữ nhật có thể tích 100 cm³, đáy 5 cm x 4 cm. Chiều cao là bao nhiêu?", "options": ["5 cm", "4 cm", "10 cm", "20 cm"], "correctAnswer": "5 cm" },
+      { "question": "Hình hộp chữ nhật có bao nhiêu mặt?", "options": ["6", "4", "8", "12"], "correctAnswer": "6" },
+      { "question": "Hình lập phương có cạnh 3 cm. Thể tích là bao nhiêu?", "options": ["27 cm³", "9 cm³", "18 cm³", "12 cm³"], "correctAnswer": "27 cm³" },
+      { "question": "Hình hộp chữ nhật có chiều dài 8 cm, rộng 5 cm, cao 2 cm. Thể tích là bao nhiêu?", "options": ["80 cm³", "40 cm³", "65 cm³", "90 cm³"], "correctAnswer": "80 cm³" }
+    ]
+  },
+  {
+    "level": 9,
+    "questions": [
+      { "question": "Một ô tô đi 120 km trong 2 giờ. Vận tốc là bao nhiêu?", "options": ["60 km/h", "50 km/h", "70 km/h", "40 km/h"], "correctAnswer": "60 km/h" },
+      { "question": "Muốn tính vận tốc ta lấy quãng đường chia cho gì?", "options": ["Thời gian", "Quãng đường", "Vận tốc", "Tốc độ"], "correctAnswer": "Thời gian" },
+      { "question": "Một người đi bộ với vận tốc 5 km/h trong 3 giờ. Quãng đường đi được là bao nhiêu?", "options": ["15 km", "10 km", "20 km", "8 km"], "correctAnswer": "15 km" },
+      { "question": "Muốn tính quãng đường ta lấy vận tốc nhân với gì?", "options": ["Thời gian", "Quãng đường", "Vận tốc", "Diện tích"], "correctAnswer": "Thời gian" },
+      { "question": "Một xe máy đi quãng đường 90 km với vận tốc 30 km/h. Thời gian đi hết là bao nhiêu?", "options": ["3 giờ", "2 giờ", "4 giờ", "5 giờ"], "correctAnswer": "3 giờ" },
+      { "question": "Muốn tính thời gian ta lấy quãng đường chia cho gì?", "options": ["Vận tốc", "Thời gian", "Quãng đường", "Diện tích"], "correctAnswer": "Vận tốc" },
+      { "question": "Một tàu hỏa đi 200 km trong 4 giờ. Vận tốc là bao nhiêu?", "options": ["50 km/h", "40 km/h", "60 km/h", "45 km/h"], "correctAnswer": "50 km/h" },
+      { "question": "Một người đi xe đạp với vận tốc 12 km/h trong 2 giờ 30 phút. Quãng đường đi được là bao nhiêu?", "options": ["30 km", "24 km", "36 km", "20 km"], "correctAnswer": "30 km" },
+      { "question": "Hai xe khởi hành cùng lúc đi ngược chiều, vận tốc 40 km/h và 35 km/h, sau 1 giờ họ cách nhau bao xa (nếu cùng xuất phát 1 điểm)?", "options": ["75 km", "70 km", "80 km", "5 km"], "correctAnswer": "75 km" },
+      { "question": "Một ca nô đi 45 km trong 1,5 giờ. Vận tốc là bao nhiêu?", "options": ["30 km/h", "25 km/h", "35 km/h", "20 km/h"], "correctAnswer": "30 km/h" }
+    ]
+  },
+  {
+    "level": 10,
+    "questions": [
+      { "question": "Một mảnh đất hình chữ nhật dài 25 m, rộng 15 m. Người ta muốn rào xung quanh. Tính chu vi mảnh đất.", "options": ["80 m", "375 m", "40 m", "90 m"], "correctAnswer": "80 m" },
+      { "question": "Một bể nước hình hộp chữ nhật dài 2 m, rộng 1,5 m, cao 1 m. Tính thể tích bể nước.", "options": ["3 m³", "4,5 m³", "2,5 m³", "3,5 m³"], "correctAnswer": "3 m³" },
+      { "question": "Một cửa hàng bán được 80 sản phẩm, trong đó 25% bị lỗi. Hỏi có bao nhiêu sản phẩm lỗi?", "options": ["20", "15", "25", "30"], "correctAnswer": "20" },
+      { "question": "Một ô tô đi từ A đến B với vận tốc 60 km/h hết 2,5 giờ. Tính quãng đường AB.", "options": ["150 km", "120 km", "180 km", "100 km"], "correctAnswer": "150 km" },
+      { "question": "Một khu vườn hình thang có đáy lớn 20 m, đáy bé 14 m, chiều cao 8 m. Tính diện tích khu vườn.", "options": ["136 m²", "160 m²", "272 m²", "112 m²"], "correctAnswer": "136 m²" },
+      { "question": "Một lớp học có 35 học sinh, trong đó 40% là học sinh nữ. Hỏi có bao nhiêu học sinh nam?", "options": ["21", "14", "15", "20"], "correctAnswer": "21" },
+      { "question": "Một thùng hình lập phương có cạnh 2 m. Tính thể tích thùng đó.", "options": ["8 m³", "6 m³", "4 m³", "12 m³"], "correctAnswer": "8 m³" },
+      { "question": "Một người đi xe máy từ 7 giờ đến 9 giờ 30 phút với vận tốc 40 km/h. Tính quãng đường đã đi.", "options": ["100 km", "90 km", "110 km", "80 km"], "correctAnswer": "100 km" },
+      { "question": "Một tấm bìa hình tam giác có đáy 16 cm, chiều cao 10 cm. Tính diện tích tấm bìa.", "options": ["80 cm²", "160 cm²", "26 cm²", "100 cm²"], "correctAnswer": "80 cm²" },
+      { "question": "Giá một chiếc áo là 250.000 đồng, được giảm giá 20%. Hỏi giá sau khi giảm là bao nhiêu?", "options": ["200.000 đồng", "230.000 đồng", "180.000 đồng", "220.000 đồng"], "correctAnswer": "200.000 đồng" }
+    ]
+  }
+]

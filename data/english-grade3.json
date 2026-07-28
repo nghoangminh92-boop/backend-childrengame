@@ -1,0 +1,152 @@
+[
+  {
+    "level": 1,
+    "questions": [
+      { "question": "What is the English word for 'thức dậy'?", "options": ["Wake up", "Go to bed", "Have lunch", "Take a bath"], "correctAnswer": "Wake up" },
+      { "question": "What is the English word for 'đánh răng'?", "options": ["Brush teeth", "Wash face", "Comb hair", "Wake up"], "correctAnswer": "Brush teeth" },
+      { "question": "What is the English word for 'ăn sáng'?", "options": ["Have breakfast", "Have lunch", "Have dinner", "Go to bed"], "correctAnswer": "Have breakfast" },
+      { "question": "What is the English word for 'đi học'?", "options": ["Go to school", "Go to bed", "Go home", "Go shopping"], "correctAnswer": "Go to school" },
+      { "question": "What is the English word for 'làm bài tập về nhà'?", "options": ["Do homework", "Go to school", "Have dinner", "Wake up"], "correctAnswer": "Do homework" },
+      { "question": "What is the English word for 'tắm'?", "options": ["Take a bath", "Brush teeth", "Wake up", "Comb hair"], "correctAnswer": "Take a bath" },
+      { "question": "What is the English word for 'đi ngủ'?", "options": ["Go to bed", "Wake up", "Go to school", "Have breakfast"], "correctAnswer": "Go to bed" },
+      { "question": "What is the English word for 'ăn tối'?", "options": ["Have dinner", "Have breakfast", "Have lunch", "Wake up"], "correctAnswer": "Have dinner" },
+      { "question": "What is the English word for 'chải tóc'?", "options": ["Comb hair", "Brush teeth", "Wash face", "Take a bath"], "correctAnswer": "Comb hair" },
+      { "question": "What is the English word for 'rửa mặt'?", "options": ["Wash face", "Comb hair", "Wake up", "Go to bed"], "correctAnswer": "Wash face" }
+    ]
+  },
+  {
+    "level": 2,
+    "questions": [
+      { "question": "What is the English word for 'bác sĩ'?", "options": ["Doctor", "Teacher", "Farmer", "Nurse"], "correctAnswer": "Doctor" },
+      { "question": "What is the English word for 'giáo viên'?", "options": ["Teacher", "Doctor", "Driver", "Cook"], "correctAnswer": "Teacher" },
+      { "question": "What is the English word for 'nông dân'?", "options": ["Farmer", "Teacher", "Nurse", "Doctor"], "correctAnswer": "Farmer" },
+      { "question": "What is the English word for 'y tá'?", "options": ["Nurse", "Doctor", "Teacher", "Driver"], "correctAnswer": "Nurse" },
+      { "question": "What is the English word for 'tài xế'?", "options": ["Driver", "Cook", "Farmer", "Nurse"], "correctAnswer": "Driver" },
+      { "question": "What is the English word for 'đầu bếp'?", "options": ["Cook", "Driver", "Teacher", "Doctor"], "correctAnswer": "Cook" },
+      { "question": "What is the English word for 'công an/cảnh sát'?", "options": ["Police officer", "Farmer", "Nurse", "Cook"], "correctAnswer": "Police officer" },
+      { "question": "What is the English word for 'lính cứu hỏa'?", "options": ["Firefighter", "Police officer", "Doctor", "Driver"], "correctAnswer": "Firefighter" },
+      { "question": "What is the English word for 'thợ xây'?", "options": ["Builder", "Farmer", "Cook", "Nurse"], "correctAnswer": "Builder" },
+      { "question": "What is the English word for 'ca sĩ'?", "options": ["Singer", "Teacher", "Doctor", "Driver"], "correctAnswer": "Singer" }
+    ]
+  },
+  {
+    "level": 3,
+    "questions": [
+      { "question": "What is the English word for 'mùa xuân'?", "options": ["Spring", "Summer", "Autumn", "Winter"], "correctAnswer": "Spring" },
+      { "question": "What is the English word for 'mùa hè'?", "options": ["Summer", "Spring", "Autumn", "Winter"], "correctAnswer": "Summer" },
+      { "question": "What is the English word for 'mùa thu'?", "options": ["Autumn", "Summer", "Spring", "Winter"], "correctAnswer": "Autumn" },
+      { "question": "What is the English word for 'mùa đông'?", "options": ["Winter", "Autumn", "Summer", "Spring"], "correctAnswer": "Winter" },
+      { "question": "What is the English word for 'tháng Một'?", "options": ["January", "February", "March", "April"], "correctAnswer": "January" },
+      { "question": "What is the English word for 'tháng Sáu'?", "options": ["June", "May", "July", "April"], "correctAnswer": "June" },
+      { "question": "What is the English word for 'tháng Mười Hai'?", "options": ["December", "November", "October", "January"], "correctAnswer": "December" },
+      { "question": "How many months are there in a year?", "options": ["12", "10", "11", "6"], "correctAnswer": "12" },
+      { "question": "What is the English word for 'tháng Ba'?", "options": ["March", "May", "January", "April"], "correctAnswer": "March" },
+      { "question": "What season comes after summer?", "options": ["Autumn", "Winter", "Spring", "Summer"], "correctAnswer": "Autumn" }
+    ]
+  },
+  {
+    "level": 4,
+    "questions": [
+      { "question": "Complete: My brother is taller ___ me.", "options": ["than", "as", "more", "then"], "correctAnswer": "than" },
+      { "question": "Complete: This box is bigger ___ that one.", "options": ["than", "as", "more", "so"], "correctAnswer": "than" },
+      { "question": "Choose the correct comparative of 'small'.", "options": ["smaller", "smallest", "more small", "small"], "correctAnswer": "smaller" },
+      { "question": "Choose the correct comparative of 'fast'.", "options": ["faster", "fastest", "more fast", "fast"], "correctAnswer": "faster" },
+      { "question": "Choose the correct comparative of 'happy'.", "options": ["happier", "happyer", "more happy", "happiest"], "correctAnswer": "happier" },
+      { "question": "Choose the correct comparative of 'good'.", "options": ["better", "gooder", "more good", "best"], "correctAnswer": "better" },
+      { "question": "Complete: An elephant is ___ than a cat. (heavy)", "options": ["heavier", "heavyer", "more heavy", "heaviest"], "correctAnswer": "heavier" },
+      { "question": "Choose the correct comparative of 'long'.", "options": ["longer", "longest", "more long", "long"], "correctAnswer": "longer" },
+      { "question": "Complete: This story is more interesting ___ that one.", "options": ["than", "as", "so", "then"], "correctAnswer": "than" },
+      { "question": "Choose the correct comparative of 'big'.", "options": ["bigger", "biger", "more big", "biggest"], "correctAnswer": "bigger" }
+    ]
+  },
+  {
+    "level": 5,
+    "questions": [
+      { "question": "What is the English word for 'rẽ trái'?", "options": ["Turn left", "Turn right", "Go straight", "Stop"], "correctAnswer": "Turn left" },
+      { "question": "What is the English word for 'rẽ phải'?", "options": ["Turn right", "Turn left", "Go straight", "Stop"], "correctAnswer": "Turn right" },
+      { "question": "What is the English word for 'đi thẳng'?", "options": ["Go straight", "Turn left", "Turn right", "Stop"], "correctAnswer": "Go straight" },
+      { "question": "What is the English word for 'dừng lại'?", "options": ["Stop", "Go straight", "Turn left", "Turn right"], "correctAnswer": "Stop" },
+      { "question": "How do you ask for directions politely?", "options": ["Excuse me, where is the library?", "Turn left please", "I am fine", "Stop here"], "correctAnswer": "Excuse me, where is the library?" },
+      { "question": "What is the English word for 'ngã tư'?", "options": ["Crossroads", "Bridge", "Corner", "Street"], "correctAnswer": "Crossroads" },
+      { "question": "What is the English word for 'gần'?", "options": ["Near", "Far", "Behind", "Beside"], "correctAnswer": "Near" },
+      { "question": "What is the English word for 'xa'?", "options": ["Far", "Near", "Behind", "Beside"], "correctAnswer": "Far" },
+      { "question": "What is the English word for 'cây cầu'?", "options": ["Bridge", "Crossroads", "Corner", "Street"], "correctAnswer": "Bridge" },
+      { "question": "Complete: Go straight, then ___ left.", "options": ["turn", "go", "stop", "walk"], "correctAnswer": "turn" }
+    ]
+  },
+  {
+    "level": 6,
+    "questions": [
+      { "question": "What is the English word for 'bóng đá'?", "options": ["Football", "Basketball", "Volleyball", "Tennis"], "correctAnswer": "Football" },
+      { "question": "What is the English word for 'bóng rổ'?", "options": ["Basketball", "Football", "Volleyball", "Badminton"], "correctAnswer": "Basketball" },
+      { "question": "What is the English word for 'bơi lội'?", "options": ["Swimming", "Running", "Cycling", "Skating"], "correctAnswer": "Swimming" },
+      { "question": "What is the English word for 'cầu lông'?", "options": ["Badminton", "Basketball", "Tennis", "Volleyball"], "correctAnswer": "Badminton" },
+      { "question": "What is the English word for 'bóng chuyền'?", "options": ["Volleyball", "Football", "Basketball", "Badminton"], "correctAnswer": "Volleyball" },
+      { "question": "What is the English word for 'quần vợt'?", "options": ["Tennis", "Football", "Swimming", "Basketball"], "correctAnswer": "Tennis" },
+      { "question": "What is the English word for 'đi xe đạp'?", "options": ["Cycling", "Running", "Swimming", "Skating"], "correctAnswer": "Cycling" },
+      { "question": "What is the English word for 'chạy bộ'?", "options": ["Running", "Cycling", "Swimming", "Skating"], "correctAnswer": "Running" },
+      { "question": "What is the English word for 'trượt băng'?", "options": ["Skating", "Swimming", "Running", "Cycling"], "correctAnswer": "Skating" },
+      { "question": "Complete: I like playing ___ with my friends. (football)", "options": ["football", "swimming", "running", "skating"], "correctAnswer": "football" }
+    ]
+  },
+  {
+    "level": 7,
+    "questions": [
+      { "question": "Complete: Yesterday, I ___ to the zoo.", "options": ["went", "go", "goes", "going"], "correctAnswer": "went" },
+      { "question": "Complete: She ___ a letter last night.", "options": ["wrote", "write", "writes", "writing"], "correctAnswer": "wrote" },
+      { "question": "Complete: They ___ football yesterday.", "options": ["played", "play", "plays", "playing"], "correctAnswer": "played" },
+      { "question": "Complete: We ___ dinner at 7 pm yesterday.", "options": ["had", "have", "has", "having"], "correctAnswer": "had" },
+      { "question": "Complete: He ___ his homework last night.", "options": ["did", "do", "does", "doing"], "correctAnswer": "did" },
+      { "question": "Complete: I ___ a book last week.", "options": ["read", "reads", "reading", "reading"], "correctAnswer": "read" },
+      { "question": "Choose the past tense of 'see'.", "options": ["saw", "seed", "seen", "sees"], "correctAnswer": "saw" },
+      { "question": "Choose the past tense of 'eat'.", "options": ["ate", "eated", "eaten", "eats"], "correctAnswer": "ate" },
+      { "question": "Choose the past tense of 'go'.", "options": ["went", "goed", "gone", "goes"], "correctAnswer": "went" },
+      { "question": "Choose the past tense of 'come'.", "options": ["came", "comed", "come", "comes"], "correctAnswer": "came" }
+    ]
+  },
+  {
+    "level": 8,
+    "questions": [
+      { "question": "What is the English word for 'vui vẻ'?", "options": ["Happy", "Sad", "Angry", "Tired"], "correctAnswer": "Happy" },
+      { "question": "What is the English word for 'buồn'?", "options": ["Sad", "Happy", "Excited", "Tired"], "correctAnswer": "Sad" },
+      { "question": "What is the English word for 'tức giận'?", "options": ["Angry", "Happy", "Sad", "Bored"], "correctAnswer": "Angry" },
+      { "question": "What is the English word for 'mệt mỏi'?", "options": ["Tired", "Happy", "Excited", "Angry"], "correctAnswer": "Tired" },
+      { "question": "What is the English word for 'sợ hãi'?", "options": ["Scared", "Happy", "Sad", "Bored"], "correctAnswer": "Scared" },
+      { "question": "What is the English word for 'hào hứng'?", "options": ["Excited", "Sad", "Tired", "Angry"], "correctAnswer": "Excited" },
+      { "question": "What is the English word for 'chán'?", "options": ["Bored", "Happy", "Excited", "Scared"], "correctAnswer": "Bored" },
+      { "question": "What is the English word for 'ngạc nhiên'?", "options": ["Surprised", "Sad", "Angry", "Tired"], "correctAnswer": "Surprised" },
+      { "question": "Complete: I feel ___ because I got a good mark.", "options": ["happy", "sad", "angry", "tired"], "correctAnswer": "happy" },
+      { "question": "Complete: She feels ___ after a long day at school.", "options": ["tired", "excited", "happy", "surprised"], "correctAnswer": "tired" }
+    ]
+  },
+  {
+    "level": 9,
+    "questions": [
+      { "question": "A: 'How much is this shirt?' B: '___'", "options": ["It's 50,000 dong.", "It's blue.", "It's small.", "It's Monday."], "correctAnswer": "It's 50,000 dong." },
+      { "question": "What is the English word for 'tiền'?", "options": ["Money", "Time", "Shirt", "Food"], "correctAnswer": "Money" },
+      { "question": "What is the English word for 'giá cả'?", "options": ["Price", "Money", "Shop", "Size"], "correctAnswer": "Price" },
+      { "question": "What is the English word for 'cửa hàng'?", "options": ["Shop", "Money", "Price", "Size"], "correctAnswer": "Shop" },
+      { "question": "Complete: Can I ___ this hat, please?", "options": ["try on", "try up", "try in", "try for"], "correctAnswer": "try on" },
+      { "question": "What is the English word for 'rẻ'?", "options": ["Cheap", "Expensive", "Big", "Small"], "correctAnswer": "Cheap" },
+      { "question": "What is the English word for 'đắt'?", "options": ["Expensive", "Cheap", "Big", "Small"], "correctAnswer": "Expensive" },
+      { "question": "A: 'Do you have this in a bigger size?' B: '___'", "options": ["Yes, here you are.", "It's Monday.", "I am fine.", "See you."], "correctAnswer": "Yes, here you are." },
+      { "question": "What is the English word for 'túi xách'?", "options": ["Bag", "Shirt", "Shoes", "Hat"], "correctAnswer": "Bag" },
+      { "question": "Complete: How much ___ these shoes cost?", "options": ["do", "does", "is", "are"], "correctAnswer": "do" }
+    ]
+  },
+  {
+    "level": 10,
+    "questions": [
+      { "question": "Read: 'Tom has a small dog. The dog is white and brown.' What color is the dog?", "options": ["White and brown", "Black", "Yellow", "Grey"], "correctAnswer": "White and brown" },
+      { "question": "Read: 'Lan likes reading books about animals.' What does Lan like reading about?", "options": ["Animals", "Sports", "Food", "Weather"], "correctAnswer": "Animals" },
+      { "question": "Read: 'Nam goes to school by bike every day.' How does Nam go to school?", "options": ["By bike", "By car", "By bus", "On foot"], "correctAnswer": "By bike" },
+      { "question": "Read: 'My family has four people: my parents, my sister, and me.' How many people are in the family?", "options": ["Four", "Three", "Five", "Two"], "correctAnswer": "Four" },
+      { "question": "Read: 'The cat is sleeping on the sofa.' Where is the cat?", "options": ["On the sofa", "Under the table", "In the box", "On the bed"], "correctAnswer": "On the sofa" },
+      { "question": "Read: 'It is raining, so I bring my umbrella.' Why does the person bring an umbrella?", "options": ["Because it is raining", "Because it is sunny", "Because it is hot", "Because it is windy"], "correctAnswer": "Because it is raining" },
+      { "question": "Read: 'Mai is good at math and English.' What subjects is Mai good at?", "options": ["Math and English", "Art and Music", "PE and Science", "History and Geography"], "correctAnswer": "Math and English" },
+      { "question": "Read: 'The bird can fly high in the sky.' What can the bird do?", "options": ["Fly", "Swim", "Run", "Jump"], "correctAnswer": "Fly" },
+      { "question": "Read: 'My father works in a hospital.' What is my father's job?", "options": ["Doctor/Nurse", "Teacher", "Farmer", "Driver"], "correctAnswer": "Doctor/Nurse" },
+      { "question": "Read: 'We have lunch at 12 o'clock every day.' What time do they have lunch?", "options": ["12 o'clock", "7 o'clock", "6 o'clock", "9 o'clock"], "correctAnswer": "12 o'clock" }
+    ]
+  }
+]

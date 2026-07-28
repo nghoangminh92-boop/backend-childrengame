@@ -1,0 +1,152 @@
+[
+  {
+    "level": 1,
+    "questions": [
+      { "question": "34 + 15 = ?", "options": ["49", "48", "50", "47"], "correctAnswer": "49" },
+      { "question": "58 - 23 = ?", "options": ["35", "34", "36", "33"], "correctAnswer": "35" },
+      { "question": "42 + 37 = ?", "options": ["79", "78", "80", "77"], "correctAnswer": "79" },
+      { "question": "76 - 41 = ?", "options": ["35", "36", "34", "33"], "correctAnswer": "35" },
+      { "question": "23 + 46 = ?", "options": ["69", "68", "70", "67"], "correctAnswer": "69" },
+      { "question": "89 - 34 = ?", "options": ["55", "54", "56", "53"], "correctAnswer": "55" },
+      { "question": "51 + 28 = ?", "options": ["79", "78", "80", "77"], "correctAnswer": "79" },
+      { "question": "67 - 52 = ?", "options": ["15", "14", "16", "13"], "correctAnswer": "15" },
+      { "question": "30 + 40 = ?", "options": ["70", "60", "80", "75"], "correctAnswer": "70" },
+      { "question": "95 - 65 = ?", "options": ["30", "29", "31", "35"], "correctAnswer": "30" }
+    ]
+  },
+  {
+    "level": 2,
+    "questions": [
+      { "question": "27 + 15 = ?", "options": ["42", "41", "43", "40"], "correctAnswer": "42" },
+      { "question": "38 + 24 = ?", "options": ["62", "61", "63", "60"], "correctAnswer": "62" },
+      { "question": "45 + 19 = ?", "options": ["64", "63", "65", "62"], "correctAnswer": "64" },
+      { "question": "56 + 27 = ?", "options": ["83", "82", "84", "81"], "correctAnswer": "83" },
+      { "question": "19 + 46 = ?", "options": ["65", "64", "66", "63"], "correctAnswer": "65" },
+      { "question": "34 + 48 = ?", "options": ["82", "81", "83", "80"], "correctAnswer": "82" },
+      { "question": "29 + 36 = ?", "options": ["65", "64", "66", "63"], "correctAnswer": "65" },
+      { "question": "48 + 29 = ?", "options": ["77", "76", "78", "75"], "correctAnswer": "77" },
+      { "question": "57 + 18 = ?", "options": ["75", "74", "76", "73"], "correctAnswer": "75" },
+      { "question": "39 + 47 = ?", "options": ["86", "85", "87", "84"], "correctAnswer": "86" }
+    ]
+  },
+  {
+    "level": 3,
+    "questions": [
+      { "question": "52 - 27 = ?", "options": ["25", "24", "26", "23"], "correctAnswer": "25" },
+      { "question": "63 - 38 = ?", "options": ["25", "24", "26", "27"], "correctAnswer": "25" },
+      { "question": "71 - 46 = ?", "options": ["25", "26", "24", "23"], "correctAnswer": "25" },
+      { "question": "84 - 59 = ?", "options": ["25", "24", "26", "27"], "correctAnswer": "25" },
+      { "question": "90 - 65 = ?", "options": ["25", "24", "26", "23"], "correctAnswer": "25" },
+      { "question": "45 - 19 = ?", "options": ["26", "25", "27", "24"], "correctAnswer": "26" },
+      { "question": "62 - 35 = ?", "options": ["27", "26", "28", "25"], "correctAnswer": "27" },
+      { "question": "80 - 47 = ?", "options": ["33", "32", "34", "31"], "correctAnswer": "33" },
+      { "question": "56 - 28 = ?", "options": ["28", "27", "29", "26"], "correctAnswer": "28" },
+      { "question": "73 - 49 = ?", "options": ["24", "23", "25", "22"], "correctAnswer": "24" }
+    ]
+  },
+  {
+    "level": 4,
+    "questions": [
+      { "question": "4 x 3 = ?", "options": ["12", "10", "14", "9"], "correctAnswer": "12" },
+      { "question": "5 x 4 = ?", "options": ["20", "18", "22", "16"], "correctAnswer": "20" },
+      { "question": "3 x 6 = ?", "options": ["18", "16", "20", "15"], "correctAnswer": "18" },
+      { "question": "2 x 9 = ?", "options": ["18", "16", "20", "14"], "correctAnswer": "18" },
+      { "question": "4 x 5 = ?", "options": ["20", "18", "22", "16"], "correctAnswer": "20" },
+      { "question": "5 x 6 = ?", "options": ["30", "28", "32", "25"], "correctAnswer": "30" },
+      { "question": "3 x 8 = ?", "options": ["24", "22", "26", "21"], "correctAnswer": "24" },
+      { "question": "4 x 7 = ?", "options": ["28", "26", "30", "24"], "correctAnswer": "28" },
+      { "question": "2 x 8 = ?", "options": ["16", "14", "18", "12"], "correctAnswer": "16" },
+      { "question": "5 x 9 = ?", "options": ["45", "40", "50", "35"], "correctAnswer": "45" }
+    ]
+  },
+  {
+    "level": 5,
+    "questions": [
+      { "question": "6 x 3 = ?", "options": ["18", "16", "20", "21"], "correctAnswer": "18" },
+      { "question": "7 x 2 = ?", "options": ["14", "12", "16", "13"], "correctAnswer": "14" },
+      { "question": "6 x 5 = ?", "options": ["30", "28", "32", "25"], "correctAnswer": "30" },
+      { "question": "7 x 4 = ?", "options": ["28", "26", "30", "24"], "correctAnswer": "28" },
+      { "question": "6 x 6 = ?", "options": ["36", "34", "38", "32"], "correctAnswer": "36" },
+      { "question": "7 x 6 = ?", "options": ["42", "40", "44", "38"], "correctAnswer": "42" },
+      { "question": "6 x 8 = ?", "options": ["48", "46", "50", "44"], "correctAnswer": "48" },
+      { "question": "7 x 7 = ?", "options": ["49", "47", "51", "45"], "correctAnswer": "49" },
+      { "question": "6 x 9 = ?", "options": ["54", "52", "56", "50"], "correctAnswer": "54" },
+      { "question": "7 x 8 = ?", "options": ["56", "54", "58", "52"], "correctAnswer": "56" }
+    ]
+  },
+  {
+    "level": 6,
+    "questions": [
+      { "question": "12 : 4 = ?", "options": ["3", "2", "4", "5"], "correctAnswer": "3" },
+      { "question": "20 : 5 = ?", "options": ["4", "3", "5", "6"], "correctAnswer": "4" },
+      { "question": "18 : 3 = ?", "options": ["6", "5", "7", "4"], "correctAnswer": "6" },
+      { "question": "21 : 7 = ?", "options": ["3", "2", "4", "5"], "correctAnswer": "3" },
+      { "question": "24 : 6 = ?", "options": ["4", "3", "5", "6"], "correctAnswer": "4" },
+      { "question": "35 : 5 = ?", "options": ["7", "6", "8", "5"], "correctAnswer": "7" },
+      { "question": "28 : 4 = ?", "options": ["7", "6", "8", "5"], "correctAnswer": "7" },
+      { "question": "36 : 6 = ?", "options": ["6", "5", "7", "8"], "correctAnswer": "6" },
+      { "question": "45 : 9 = ?", "options": ["5", "4", "6", "7"], "correctAnswer": "5" },
+      { "question": "42 : 7 = ?", "options": ["6", "5", "7", "8"], "correctAnswer": "6" }
+    ]
+  },
+  {
+    "level": 7,
+    "questions": [
+      { "question": "1 m bằng bao nhiêu cm?", "options": ["100 cm", "10 cm", "1000 cm", "50 cm"], "correctAnswer": "100 cm" },
+      { "question": "1 dm bằng bao nhiêu cm?", "options": ["10 cm", "100 cm", "1 cm", "5 cm"], "correctAnswer": "10 cm" },
+      { "question": "2 m bằng bao nhiêu dm?", "options": ["20 dm", "2 dm", "200 dm", "12 dm"], "correctAnswer": "20 dm" },
+      { "question": "50 cm bằng bao nhiêu dm?", "options": ["5 dm", "50 dm", "0.5 dm", "15 dm"], "correctAnswer": "5 dm" },
+      { "question": "3 m + 2 m = ?", "options": ["5 m", "6 m", "4 m", "1 m"], "correctAnswer": "5 m" },
+      { "question": "10 dm - 4 dm = ?", "options": ["6 dm", "5 dm", "7 dm", "4 dm"], "correctAnswer": "6 dm" },
+      { "question": "1 km bằng bao nhiêu m?", "options": ["1000 m", "100 m", "10 m", "500 m"], "correctAnswer": "1000 m" },
+      { "question": "Vật nào dài nhất?", "options": ["1 m", "50 cm", "5 dm", "80 cm"], "correctAnswer": "1 m" },
+      { "question": "20 cm + 30 cm = ?", "options": ["50 cm", "40 cm", "60 cm", "45 cm"], "correctAnswer": "50 cm" },
+      { "question": "7 dm bằng bao nhiêu cm?", "options": ["70 cm", "7 cm", "700 cm", "17 cm"], "correctAnswer": "70 cm" }
+    ]
+  },
+  {
+    "level": 8,
+    "questions": [
+      { "question": "Kim ngắn chỉ số 3, kim dài chỉ số 12 là mấy giờ?", "options": ["3 giờ", "12 giờ", "9 giờ", "6 giờ"], "correctAnswer": "3 giờ" },
+      { "question": "Kim ngắn chỉ số 7, kim dài chỉ số 12 là mấy giờ?", "options": ["7 giờ", "12 giờ", "5 giờ", "2 giờ"], "correctAnswer": "7 giờ" },
+      { "question": "Một ngày có bao nhiêu giờ?", "options": ["24 giờ", "12 giờ", "60 giờ", "30 giờ"], "correctAnswer": "24 giờ" },
+      { "question": "Một giờ có bao nhiêu phút?", "options": ["60 phút", "24 phút", "12 phút", "30 phút"], "correctAnswer": "60 phút" },
+      { "question": "9 giờ sáng còn gọi là mấy giờ (theo giờ 24h)?", "options": ["9 giờ", "21 giờ", "19 giờ", "12 giờ"], "correctAnswer": "9 giờ" },
+      { "question": "Kim dài chỉ số 6 nghĩa là mấy phút?", "options": ["30 phút", "6 phút", "60 phút", "15 phút"], "correctAnswer": "30 phút" },
+      { "question": "Nửa giờ bằng bao nhiêu phút?", "options": ["30 phút", "15 phút", "45 phút", "60 phút"], "correctAnswer": "30 phút" },
+      { "question": "8 giờ tối là mấy giờ theo giờ 24h?", "options": ["20 giờ", "8 giờ", "18 giờ", "22 giờ"], "correctAnswer": "20 giờ" },
+      { "question": "Kim ngắn chỉ số 12, kim dài chỉ số 12 là mấy giờ?", "options": ["12 giờ", "6 giờ", "1 giờ", "24 giờ"], "correctAnswer": "12 giờ" },
+      { "question": "Một tuần có bao nhiêu ngày?", "options": ["7 ngày", "5 ngày", "10 ngày", "30 ngày"], "correctAnswer": "7 ngày" }
+    ]
+  },
+  {
+    "level": 9,
+    "questions": [
+      { "question": "Hình nào có 3 cạnh?", "options": ["Hình tam giác", "Hình vuông", "Hình tròn", "Hình chữ nhật"], "correctAnswer": "Hình tam giác" },
+      { "question": "Hình nào có 4 cạnh bằng nhau?", "options": ["Hình vuông", "Hình tam giác", "Hình tròn", "Hình chữ nhật"], "correctAnswer": "Hình vuông" },
+      { "question": "Hình nào không có góc?", "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"], "correctAnswer": "Hình tròn" },
+      { "question": "Hình chữ nhật có bao nhiêu cạnh?", "options": ["4 cạnh", "3 cạnh", "5 cạnh", "6 cạnh"], "correctAnswer": "4 cạnh" },
+      { "question": "Hình tam giác có bao nhiêu góc?", "options": ["3 góc", "4 góc", "2 góc", "5 góc"], "correctAnswer": "3 góc" },
+      { "question": "Hình nào có 2 cạnh dài bằng nhau và 2 cạnh ngắn bằng nhau?", "options": ["Hình chữ nhật", "Hình tam giác", "Hình tròn", "Hình vuông"], "correctAnswer": "Hình chữ nhật" },
+      { "question": "Bánh xe thường có hình gì?", "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"], "correctAnswer": "Hình tròn" },
+      { "question": "Lá cờ đỏ sao vàng Việt Nam có hình gì?", "options": ["Hình chữ nhật", "Hình tròn", "Hình tam giác", "Hình vuông"], "correctAnswer": "Hình chữ nhật" },
+      { "question": "Viên gạch bông thường có hình gì?", "options": ["Hình vuông", "Hình tròn", "Hình tam giác", "Hình thoi"], "correctAnswer": "Hình vuông" },
+      { "question": "Biển báo giao thông tam giác có bao nhiêu cạnh?", "options": ["3 cạnh", "4 cạnh", "5 cạnh", "0 cạnh"], "correctAnswer": "3 cạnh" }
+    ]
+  },
+  {
+    "level": 10,
+    "questions": [
+      { "question": "An có 25 viên bi, cho bạn 8 viên, sau đó được cho thêm 5 viên. Hỏi An có bao nhiêu viên bi?", "options": ["22", "20", "24", "18"], "correctAnswer": "22" },
+      { "question": "Một cửa hàng có 40 quyển vở, bán đi 15 quyển, nhập thêm 10 quyển. Hỏi còn bao nhiêu quyển vở?", "options": ["35", "30", "40", "25"], "correctAnswer": "35" },
+      { "question": "Lớp 2A có 18 bạn nam và 14 bạn nữ. Hỏi lớp có tất cả bao nhiêu bạn?", "options": ["32", "30", "34", "28"], "correctAnswer": "32" },
+      { "question": "Mẹ mua 3 hộp bánh, mỗi hộp 6 cái. Mẹ cho em 4 cái. Hỏi còn lại bao nhiêu cái bánh?", "options": ["14", "12", "16", "10"], "correctAnswer": "14" },
+      { "question": "Một trại có 45 con gà, bán đi 20 con, mua thêm 12 con. Hỏi trại còn bao nhiêu con gà?", "options": ["37", "35", "39", "33"], "correctAnswer": "37" },
+      { "question": "Hoa có 50000 đồng, mua sách hết 22000 đồng, mua bút hết 8000 đồng. Hỏi Hoa còn lại bao nhiêu tiền?", "options": ["20000", "18000", "22000", "15000"], "correctAnswer": "20000" },
+      { "question": "Có 6 tổ, mỗi tổ 5 bạn. Có 3 bạn nghỉ học. Hỏi còn bao nhiêu bạn đi học?", "options": ["27", "25", "29", "23"], "correctAnswer": "27" },
+      { "question": "Một xe chở 48 hộp sữa, giao 25 hộp cho cửa hàng A, còn lại giao hết cho cửa hàng B. Hỏi cửa hàng B nhận bao nhiêu hộp?", "options": ["23", "21", "25", "20"], "correctAnswer": "23" },
+      { "question": "Bố có 60 quả cam, đem bán 35 quả, biếu hàng xóm 10 quả. Hỏi bố còn lại bao nhiêu quả cam?", "options": ["15", "13", "17", "20"], "correctAnswer": "15" },
+      { "question": "Một đội có 24 học sinh xếp thành các hàng, mỗi hàng 4 bạn. Sau đó thêm 2 hàng nữa mỗi hàng 4 bạn. Hỏi đội có tất cả bao nhiêu học sinh?", "options": ["32", "28", "30", "36"], "correctAnswer": "32" }
+    ]
+  }
+]

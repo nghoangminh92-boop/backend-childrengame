@@ -1,0 +1,152 @@
+[
+  {
+    "level": 1,
+    "questions": [
+      { "question": "Complete: I ___ watching TV when he called.", "options": ["was", "am", "is", "were"], "correctAnswer": "was" },
+      { "question": "Complete: They ___ playing football at 5 pm yesterday.", "options": ["were", "was", "are", "is"], "correctAnswer": "were" },
+      { "question": "Complete: She ___ cooking dinner when I arrived.", "options": ["was", "were", "is", "am"], "correctAnswer": "was" },
+      { "question": "Complete: We ___ studying English at 8 am this morning.", "options": ["were", "was", "are", "is"], "correctAnswer": "were" },
+      { "question": "Choose the correct past continuous form of 'read'.", "options": ["was reading", "was read", "reading", "reads"], "correctAnswer": "was reading" },
+      { "question": "Complete: What ___ you doing at 9 pm last night?", "options": ["were", "was", "are", "do"], "correctAnswer": "were" },
+      { "question": "Complete: He ___ sleeping when the phone rang.", "options": ["was", "were", "is", "am"], "correctAnswer": "was" },
+      { "question": "Complete: The children ___ playing in the garden all afternoon.", "options": ["were", "was", "are", "is"], "correctAnswer": "were" },
+      { "question": "Complete: I ___ not listening carefully at that time.", "options": ["was", "were", "am", "is"], "correctAnswer": "was" },
+      { "question": "Complete: My parents ___ talking when I came home.", "options": ["were", "was", "are", "is"], "correctAnswer": "were" }
+    ]
+  },
+  {
+    "level": 2,
+    "questions": [
+      { "question": "Choose the superlative form of 'tall'.", "options": ["the tallest", "taller", "more tall", "tall"], "correctAnswer": "the tallest" },
+      { "question": "Choose the superlative form of 'good'.", "options": ["the best", "better", "gooder", "good"], "correctAnswer": "the best" },
+      { "question": "Choose the superlative form of 'beautiful'.", "options": ["the most beautiful", "more beautiful", "beautifuler", "beautiful"], "correctAnswer": "the most beautiful" },
+      { "question": "Complete: Mount Everest is ___ mountain in the world. (high)", "options": ["the highest", "higher", "more high", "high"], "correctAnswer": "the highest" },
+      { "question": "Choose the comparative form of 'interesting'.", "options": ["more interesting", "interestinger", "the most interesting", "interesting"], "correctAnswer": "more interesting" },
+      { "question": "Complete: This is ___ book I have ever read. (interesting)", "options": ["the most interesting", "more interesting", "interestinger", "interesting"], "correctAnswer": "the most interesting" },
+      { "question": "Choose the superlative form of 'big'.", "options": ["the biggest", "bigger", "more big", "big"], "correctAnswer": "the biggest" },
+      { "question": "Complete: She is ___ student in my class. (smart)", "options": ["the smartest", "smarter", "more smart", "smart"], "correctAnswer": "the smartest" },
+      { "question": "Choose the superlative form of 'small'.", "options": ["the smallest", "smaller", "more small", "small"], "correctAnswer": "the smallest" },
+      { "question": "Complete: This is ___ day of my life. (happy)", "options": ["the happiest", "happier", "more happy", "happy"], "correctAnswer": "the happiest" }
+    ]
+  },
+  {
+    "level": 3,
+    "questions": [
+      { "question": "What is the English word for 'tái chế'?", "options": ["Recycle", "Pollute", "Waste", "Destroy"], "correctAnswer": "Recycle" },
+      { "question": "What is the English word for 'rác thải'?", "options": ["Rubbish", "Recycle", "Nature", "Forest"], "correctAnswer": "Rubbish" },
+      { "question": "What is the English word for 'bảo tồn'?", "options": ["Conserve", "Waste", "Pollute", "Destroy"], "correctAnswer": "Conserve" },
+      { "question": "What is the English word for 'túi nilon'?", "options": ["Plastic bag", "Paper bag", "Cloth bag", "Glass bag"], "correctAnswer": "Plastic bag" },
+      { "question": "What is the English word for 'năng lượng sạch'?", "options": ["Clean energy", "Pollution", "Rubbish", "Waste"], "correctAnswer": "Clean energy" },
+      { "question": "What is the English word for 'trồng cây'?", "options": ["Planting trees", "Cutting trees", "Burning trees", "Selling trees"], "correctAnswer": "Planting trees" },
+      { "question": "What is the English word for 'biến đổi khí hậu'?", "options": ["Climate change", "Weather", "Pollution", "Nature"], "correctAnswer": "Climate change" },
+      { "question": "What is the English word for 'tiết kiệm nước'?", "options": ["Save water", "Waste water", "Pollute water", "Drink water"], "correctAnswer": "Save water" },
+      { "question": "Complete: We should ___ plastic bottles instead of throwing them away.", "options": ["recycle", "pollute", "waste", "destroy"], "correctAnswer": "recycle" },
+      { "question": "What is the English word for 'động vật hoang dã'?", "options": ["Wildlife", "Pets", "Farm animals", "Insects"], "correctAnswer": "Wildlife" }
+    ]
+  },
+  {
+    "level": 4,
+    "questions": [
+      { "question": "What is the English word for 'máy tính bảng'?", "options": ["Tablet", "Computer", "Phone", "Television"], "correctAnswer": "Tablet" },
+      { "question": "What is the English word for 'điện thoại thông minh'?", "options": ["Smartphone", "Tablet", "Laptop", "Computer"], "correctAnswer": "Smartphone" },
+      { "question": "What is the English word for 'mạng internet'?", "options": ["Internet", "Computer", "Phone", "Software"], "correctAnswer": "Internet" },
+      { "question": "What is the English word for 'trang web'?", "options": ["Website", "Software", "Internet", "Application"], "correctAnswer": "Website" },
+      { "question": "What is the English word for 'ứng dụng'?", "options": ["Application", "Website", "Internet", "Software"], "correctAnswer": "Application" },
+      { "question": "What is the English word for 'máy tính xách tay'?", "options": ["Laptop", "Tablet", "Smartphone", "Television"], "correctAnswer": "Laptop" },
+      { "question": "What is the English word for 'gửi email'?", "options": ["Send an email", "Make a call", "Watch a video", "Play a game"], "correctAnswer": "Send an email" },
+      { "question": "What is the English word for 'tải xuống'?", "options": ["Download", "Upload", "Delete", "Save"], "correctAnswer": "Download" },
+      { "question": "What is the English word for 'tải lên'?", "options": ["Upload", "Download", "Delete", "Open"], "correctAnswer": "Upload" },
+      { "question": "Complete: I use my computer to ___ my homework online.", "options": ["do", "does", "doing", "did"], "correctAnswer": "do" }
+    ]
+  },
+  {
+    "level": 5,
+    "questions": [
+      { "question": "Complete: In my opinion, reading books is ___.", "options": ["very useful", "very use", "useful very", "use very"], "correctAnswer": "very useful" },
+      { "question": "Choose the correct way to give an opinion.", "options": ["I think that...", "I am that...", "I do that...", "I have that..."], "correctAnswer": "I think that..." },
+      { "question": "Complete: ___ my opinion, we should protect the environment.", "options": ["In", "On", "At", "By"], "correctAnswer": "In" },
+      { "question": "Choose the correct way to agree with someone.", "options": ["I agree with you.", "I opinion with you.", "I think you.", "I am agree."], "correctAnswer": "I agree with you." },
+      { "question": "Choose the correct way to disagree politely.", "options": ["I don't think so.", "I no think so.", "I not agree.", "I disagreement."], "correctAnswer": "I don't think so." },
+      { "question": "Complete: I believe ___ is important to study hard.", "options": ["it", "this", "that one", "there"], "correctAnswer": "it" },
+      { "question": "Complete: From my point of ___, this book is great.", "options": ["view", "opinion", "think", "idea"], "correctAnswer": "view" },
+      { "question": "Choose the correct sentence expressing a preference.", "options": ["I prefer tea to coffee.", "I prefer tea than coffee.", "I prefer tea coffee.", "I prefer tea for coffee."], "correctAnswer": "I prefer tea to coffee." },
+      { "question": "Complete: Personally, I ___ that music helps us relax.", "options": ["think", "am", "do", "have"], "correctAnswer": "think" },
+      { "question": "Choose the correct question asking for opinion.", "options": ["What do you think about it?", "What you think about it?", "What think you about it?", "What do think you it?"], "correctAnswer": "What do you think about it?" }
+    ]
+  },
+  {
+    "level": 6,
+    "questions": [
+      { "question": "Complete: If it rains, I ___ stay at home.", "options": ["will", "would", "did", "was"], "correctAnswer": "will" },
+      { "question": "Complete: If you study hard, you ___ pass the exam.", "options": ["will", "would", "did", "were"], "correctAnswer": "will" },
+      { "question": "Complete: If I ___ free tomorrow, I will visit you.", "options": ["am", "is", "was", "were"], "correctAnswer": "am" },
+      { "question": "Choose the correct conditional sentence.", "options": ["If it is sunny, we will go to the beach.", "If it is sunny, we go to the beach will.", "If it sunny, we will go.", "If it is sunny, we will went."], "correctAnswer": "If it is sunny, we will go to the beach." },
+      { "question": "Complete: If she ___ late, the teacher will be angry.", "options": ["is", "was", "were", "be"], "correctAnswer": "is" },
+      { "question": "Complete: If we don't hurry, we ___ miss the bus.", "options": ["will", "would", "did", "were"], "correctAnswer": "will" },
+      { "question": "Complete: If they ___ hard, they will finish on time.", "options": ["work", "works", "worked", "working"], "correctAnswer": "work" },
+      { "question": "Complete: If you heat ice, it ___ melt.", "options": ["will", "would", "did", "was"], "correctAnswer": "will" },
+      { "question": "Complete: If I have enough money, I ___ buy a new bike.", "options": ["will", "would", "did", "was"], "correctAnswer": "will" },
+      { "question": "Complete: If he ___ his homework, he can play games.", "options": ["finishes", "finish", "finished", "finishing"], "correctAnswer": "finishes" }
+    ]
+  },
+  {
+    "level": 7,
+    "questions": [
+      { "question": "What is the English word for 'sân bay'?", "options": ["Airport", "Train station", "Bus stop", "Port"], "correctAnswer": "Airport" },
+      { "question": "What is the English word for 'máy bay'?", "options": ["Airplane", "Train", "Bus", "Ship"], "correctAnswer": "Airplane" },
+      { "question": "What is the English word for 'tàu hỏa'?", "options": ["Train", "Airplane", "Bus", "Boat"], "correctAnswer": "Train" },
+      { "question": "What is the English word for 'vé'?", "options": ["Ticket", "Passport", "Bag", "Map"], "correctAnswer": "Ticket" },
+      { "question": "What is the English word for 'hộ chiếu'?", "options": ["Passport", "Ticket", "Map", "Bag"], "correctAnswer": "Passport" },
+      { "question": "What is the English word for 'hành lý'?", "options": ["Luggage", "Ticket", "Passport", "Map"], "correctAnswer": "Luggage" },
+      { "question": "What is the English word for 'thuyền/tàu'?", "options": ["Boat", "Train", "Airplane", "Bus"], "correctAnswer": "Boat" },
+      { "question": "What is the English word for 'ga tàu'?", "options": ["Train station", "Airport", "Bus stop", "Port"], "correctAnswer": "Train station" },
+      { "question": "Complete: I usually travel by ___ when I go abroad.", "options": ["plane", "foot", "bicycle", "walk"], "correctAnswer": "plane" },
+      { "question": "What is the English word for 'du lịch'?", "options": ["Travel", "Work", "Study", "Rest"], "correctAnswer": "Travel" }
+    ]
+  },
+  {
+    "level": 8,
+    "questions": [
+      { "question": "What is the English word for 'Vịnh Hạ Long'?", "options": ["Ha Long Bay", "Ha Long Sea", "Ha Long Lake", "Ha Long River"], "correctAnswer": "Ha Long Bay" },
+      { "question": "The Eiffel Tower is located in which country?", "options": ["France", "England", "Italy", "Germany"], "correctAnswer": "France" },
+      { "question": "The Great Wall is located in which country?", "options": ["China", "Japan", "Korea", "Vietnam"], "correctAnswer": "China" },
+      { "question": "What is the English word for 'kim tự tháp'?", "options": ["Pyramid", "Tower", "Castle", "Palace"], "correctAnswer": "Pyramid" },
+      { "question": "The Statue of Liberty is located in which country?", "options": ["The United States", "England", "France", "China"], "correctAnswer": "The United States" },
+      { "question": "What is the English word for 'lâu đài'?", "options": ["Castle", "Pyramid", "Tower", "Bridge"], "correctAnswer": "Castle" },
+      { "question": "Ha Noi is the capital of which country?", "options": ["Vietnam", "Thailand", "Laos", "Cambodia"], "correctAnswer": "Vietnam" },
+      { "question": "What is the English word for 'di tích lịch sử'?", "options": ["Historical site", "Modern building", "Shopping mall", "Amusement park"], "correctAnswer": "Historical site" },
+      { "question": "Mount Fuji is located in which country?", "options": ["Japan", "China", "Korea", "Vietnam"], "correctAnswer": "Japan" },
+      { "question": "What is the English word for 'nổi tiếng'?", "options": ["Famous", "Boring", "Small", "Cheap"], "correctAnswer": "Famous" }
+    ]
+  },
+  {
+    "level": 9,
+    "questions": [
+      { "question": "Read: 'Long ago, a poor farmer found a magic lamp. When he rubbed it, a genie appeared.' What did the farmer find?", "options": ["A magic lamp", "A gold coin", "A magic sword", "A treasure map"], "correctAnswer": "A magic lamp" },
+      { "question": "Read: 'The library in our school is very big. It has more than five thousand books.' How many books does the library have?", "options": ["More than five thousand", "Five hundred", "Fifty", "Five"], "correctAnswer": "More than five thousand" },
+      { "question": "Read: 'Every summer, my family travels to a different city in Vietnam. Last year we visited Hue.' Where did the family visit last year?", "options": ["Hue", "Hanoi", "Da Nang", "Sapa"], "correctAnswer": "Hue" },
+      { "question": "Read: 'Recycling helps reduce waste and protect our planet for future generations.' What does recycling help protect?", "options": ["The planet", "Money", "Time", "Food"], "correctAnswer": "The planet" },
+      { "question": "Read: 'The old man lived alone in a small house near the forest, but he was never lonely because animals often visited him.' Why wasn't the man lonely?", "options": ["Because animals often visited him", "Because he had many friends", "Because he lived in the city", "Because he had a big family"], "correctAnswer": "Because animals often visited him" },
+      { "question": "Read: 'Vietnam has many famous dishes, such as pho, banh mi, and spring rolls.' Which dish is NOT mentioned?", "options": ["Sushi", "Pho", "Banh mi", "Spring rolls"], "correctAnswer": "Sushi" },
+      { "question": "Read: 'Learning a new language takes time and practice, but it opens doors to new cultures.' What does learning a new language open?", "options": ["Doors to new cultures", "A new job", "A new house", "A new phone"], "correctAnswer": "Doors to new cultures" },
+      { "question": "Read: 'The astronaut spent six months on the space station, studying how plants grow without gravity.' What did the astronaut study?", "options": ["How plants grow without gravity", "How to fly a rocket", "How to cook in space", "How stars are formed"], "correctAnswer": "How plants grow without gravity" },
+      { "question": "Read: 'Despite the heavy rain, the students still went to school on time.' What was the weather like?", "options": ["Heavy rain", "Sunny", "Snowy", "Windy"], "correctAnswer": "Heavy rain" },
+      { "question": "Read: 'The young girl practiced the violin every day, hoping to join the school orchestra.' What instrument did the girl practice?", "options": ["Violin", "Piano", "Guitar", "Drum"], "correctAnswer": "Violin" }
+    ]
+  },
+  {
+    "level": 10,
+    "questions": [
+      { "question": "Choose the best introduction sentence for an essay about your favorite season.", "options": ["My favorite season is summer because I can swim and play outside.", "The weather is nice.", "I like fruit.", "Seasons are four."], "correctAnswer": "My favorite season is summer because I can swim and play outside." },
+      { "question": "Which sentence best supports the topic 'I love reading books'?", "options": ["Books take me to different worlds and teach me new things.", "I have a dog.", "The sky is blue.", "I go to school by bus."], "correctAnswer": "Books take me to different worlds and teach me new things." },
+      { "question": "Choose the best concluding sentence for an essay about a memorable trip.", "options": ["This trip will always be a happy memory for me.", "I went there.", "It was a place.", "The bus was blue."], "correctAnswer": "This trip will always be a happy memory for me." },
+      { "question": "Which linking word shows an additional idea?", "options": ["Moreover", "But", "However", "Although"], "correctAnswer": "Moreover" },
+      { "question": "Which linking word shows a result?", "options": ["Therefore", "And", "Also", "Besides"], "correctAnswer": "Therefore" },
+      { "question": "Choose the correct structure for a short essay.", "options": ["Introduction, body, conclusion", "Conclusion, introduction, body", "Body, conclusion, introduction", "Random order"], "correctAnswer": "Introduction, body, conclusion" },
+      { "question": "Which sentence gives a clear personal example?", "options": ["Last year, I visited my grandparents in the countryside.", "The countryside is nice.", "Grandparents are old.", "I like visiting."], "correctAnswer": "Last year, I visited my grandparents in the countryside." },
+      { "question": "Choose the best sentence describing a goal for the future.", "options": ["In the future, I want to become a teacher.", "I future teacher.", "I want teacher future.", "Future I teacher want."], "correctAnswer": "In the future, I want to become a teacher." },
+      { "question": "Which word helps to give an example?", "options": ["For example", "However", "Therefore", "Although"], "correctAnswer": "For example" },
+      { "question": "Choose the sentence with the clearest description.", "options": ["The old wooden house stood quietly by the river.", "The house was there.", "House old by river.", "There was a house, it was old."], "correctAnswer": "The old wooden house stood quietly by the river." }
+    ]
+  }
+]

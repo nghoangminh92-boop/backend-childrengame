@@ -29,8 +29,14 @@ const DATA_DIR = path.join(__dirname, "..", "data");
 const FILES_TO_SEED = [
   "math-grade1.json",
   "english-grade1.json",
-  // "math-grade2.json",
-  // "english-grade2.json",
+  "math-grade2.json",
+  "english-grade2.json",
+  "math-grade3.json",
+  "english-grade3.json",
+  "math-grade4.json",
+  "english-grade4.json",
+  "math-grade5.json",
+  "english-grade5.json",
 ];
 
 // Parse "math-grade1.json" -> { type: "math", grade: 1 }

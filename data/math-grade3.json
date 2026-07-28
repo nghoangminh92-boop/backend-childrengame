@@ -1,0 +1,152 @@
+[
+  {
+    "level": 1,
+    "questions": [
+      { "question": "245 + 138 = ?", "options": ["383", "382", "384", "381"], "correctAnswer": "383" },
+      { "question": "512 - 267 = ?", "options": ["245", "244", "246", "243"], "correctAnswer": "245" },
+      { "question": "367 + 258 = ?", "options": ["625", "624", "626", "623"], "correctAnswer": "625" },
+      { "question": "700 - 345 = ?", "options": ["355", "354", "356", "353"], "correctAnswer": "355" },
+      { "question": "428 + 176 = ?", "options": ["604", "603", "605", "602"], "correctAnswer": "604" },
+      { "question": "635 - 289 = ?", "options": ["346", "345", "347", "344"], "correctAnswer": "346" },
+      { "question": "319 + 284 = ?", "options": ["603", "602", "604", "601"], "correctAnswer": "603" },
+      { "question": "560 - 173 = ?", "options": ["387", "386", "388", "385"], "correctAnswer": "387" },
+      { "question": "246 + 359 = ?", "options": ["605", "604", "606", "603"], "correctAnswer": "605" },
+      { "question": "800 - 456 = ?", "options": ["344", "343", "345", "342"], "correctAnswer": "344" }
+    ]
+  },
+  {
+    "level": 2,
+    "questions": [
+      { "question": "8 x 3 = ?", "options": ["24", "22", "26", "20"], "correctAnswer": "24" },
+      { "question": "9 x 4 = ?", "options": ["36", "34", "38", "32"], "correctAnswer": "36" },
+      { "question": "8 x 6 = ?", "options": ["48", "46", "50", "44"], "correctAnswer": "48" },
+      { "question": "9 x 7 = ?", "options": ["63", "61", "65", "59"], "correctAnswer": "63" },
+      { "question": "8 x 8 = ?", "options": ["64", "62", "66", "60"], "correctAnswer": "64" },
+      { "question": "9 x 9 = ?", "options": ["81", "79", "83", "77"], "correctAnswer": "81" },
+      { "question": "8 x 5 = ?", "options": ["40", "38", "42", "36"], "correctAnswer": "40" },
+      { "question": "9 x 6 = ?", "options": ["54", "52", "56", "50"], "correctAnswer": "54" },
+      { "question": "8 x 9 = ?", "options": ["72", "70", "74", "68"], "correctAnswer": "72" },
+      { "question": "9 x 8 = ?", "options": ["72", "70", "74", "68"], "correctAnswer": "72" }
+    ]
+  },
+  {
+    "level": 3,
+    "questions": [
+      { "question": "17 : 5 = ? (dư mấy)", "options": ["3 dư 2", "3 dư 1", "2 dư 3", "4 dư 1"], "correctAnswer": "3 dư 2" },
+      { "question": "20 : 3 = ? (dư mấy)", "options": ["6 dư 2", "6 dư 1", "7 dư 0", "5 dư 2"], "correctAnswer": "6 dư 2" },
+      { "question": "29 : 4 = ? (dư mấy)", "options": ["7 dư 1", "7 dư 2", "6 dư 5", "8 dư 0"], "correctAnswer": "7 dư 1" },
+      { "question": "34 : 6 = ? (dư mấy)", "options": ["5 dư 4", "5 dư 3", "6 dư 0", "4 dư 6"], "correctAnswer": "5 dư 4" },
+      { "question": "23 : 7 = ? (dư mấy)", "options": ["3 dư 2", "3 dư 1", "2 dư 5", "4 dư 0"], "correctAnswer": "3 dư 2" },
+      { "question": "40 : 6 = ? (dư mấy)", "options": ["6 dư 4", "6 dư 3", "7 dư 0", "5 dư 4"], "correctAnswer": "6 dư 4" },
+      { "question": "38 : 5 = ? (dư mấy)", "options": ["7 dư 3", "7 dư 2", "6 dư 5", "8 dư 0"], "correctAnswer": "7 dư 3" },
+      { "question": "26 : 4 = ? (dư mấy)", "options": ["6 dư 2", "6 dư 1", "5 dư 2", "7 dư 0"], "correctAnswer": "6 dư 2" },
+      { "question": "31 : 8 = ? (dư mấy)", "options": ["3 dư 7", "3 dư 6", "4 dư 0", "2 dư 7"], "correctAnswer": "3 dư 7" },
+      { "question": "45 : 7 = ? (dư mấy)", "options": ["6 dư 3", "6 dư 2", "5 dư 3", "7 dư 0"], "correctAnswer": "6 dư 3" }
+    ]
+  },
+  {
+    "level": 4,
+    "questions": [
+      { "question": "23 x 3 = ?", "options": ["69", "66", "72", "63"], "correctAnswer": "69" },
+      { "question": "14 x 5 = ?", "options": ["70", "65", "75", "60"], "correctAnswer": "70" },
+      { "question": "32 x 4 = ?", "options": ["128", "124", "132", "120"], "correctAnswer": "128" },
+      { "question": "21 x 6 = ?", "options": ["126", "122", "130", "118"], "correctAnswer": "126" },
+      { "question": "18 x 4 = ?", "options": ["72", "68", "76", "64"], "correctAnswer": "72" },
+      { "question": "27 x 3 = ?", "options": ["81", "78", "84", "75"], "correctAnswer": "81" },
+      { "question": "15 x 6 = ?", "options": ["90", "85", "95", "80"], "correctAnswer": "90" },
+      { "question": "24 x 4 = ?", "options": ["96", "92", "100", "88"], "correctAnswer": "96" },
+      { "question": "19 x 5 = ?", "options": ["95", "90", "100", "85"], "correctAnswer": "95" },
+      { "question": "13 x 7 = ?", "options": ["91", "88", "94", "84"], "correctAnswer": "91" }
+    ]
+  },
+  {
+    "level": 5,
+    "questions": [
+      { "question": "84 : 4 = ?", "options": ["21", "20", "22", "19"], "correctAnswer": "21" },
+      { "question": "96 : 6 = ?", "options": ["16", "15", "17", "14"], "correctAnswer": "16" },
+      { "question": "72 : 3 = ?", "options": ["24", "23", "25", "22"], "correctAnswer": "24" },
+      { "question": "63 : 7 = ?", "options": ["9", "8", "10", "7"], "correctAnswer": "9" },
+      { "question": "90 : 5 = ?", "options": ["18", "17", "19", "16"], "correctAnswer": "18" },
+      { "question": "56 : 4 = ?", "options": ["14", "13", "15", "12"], "correctAnswer": "14" },
+      { "question": "81 : 3 = ?", "options": ["27", "26", "28", "25"], "correctAnswer": "27" },
+      { "question": "75 : 5 = ?", "options": ["15", "14", "16", "13"], "correctAnswer": "15" },
+      { "question": "48 : 3 = ?", "options": ["16", "15", "17", "14"], "correctAnswer": "16" },
+      { "question": "64 : 4 = ?", "options": ["16", "15", "17", "18"], "correctAnswer": "16" }
+    ]
+  },
+  {
+    "level": 6,
+    "questions": [
+      { "question": "Một cái bánh chia thành 4 phần bằng nhau, lấy 1 phần. Phân số chỉ phần đó là gì?", "options": ["1/4", "4/1", "1/2", "2/4"], "correctAnswer": "1/4" },
+      { "question": "Phân số nào chỉ 'một nửa'?", "options": ["1/2", "1/4", "2/3", "1/3"], "correctAnswer": "1/2" },
+      { "question": "Chia hình tròn thành 3 phần bằng nhau, tô màu 2 phần. Phân số là gì?", "options": ["2/3", "3/2", "1/3", "2/2"], "correctAnswer": "2/3" },
+      { "question": "Phân số 3/4 có tử số là bao nhiêu?", "options": ["3", "4", "1", "7"], "correctAnswer": "3" },
+      { "question": "Phân số 5/8 có mẫu số là bao nhiêu?", "options": ["8", "5", "3", "13"], "correctAnswer": "8" },
+      { "question": "So sánh 1/2 và 1/4, phân số nào lớn hơn?", "options": ["1/2", "1/4", "Bằng nhau", "Không so sánh được"], "correctAnswer": "1/2" },
+      { "question": "So sánh 2/5 và 3/5, phân số nào lớn hơn?", "options": ["3/5", "2/5", "Bằng nhau", "Không so sánh được"], "correctAnswer": "3/5" },
+      { "question": "Phân số nào bằng 1 (nguyên vẹn)?", "options": ["4/4", "1/4", "2/4", "3/4"], "correctAnswer": "4/4" },
+      { "question": "Chia 1 quả cam thành 6 phần, ăn 1 phần. Còn lại bao nhiêu phần?", "options": ["5/6", "1/6", "4/6", "6/6"], "correctAnswer": "5/6" },
+      { "question": "Phân số 1/3 đọc là gì?", "options": ["Một phần ba", "Ba phần một", "Một phần hai", "Ba phần ba"], "correctAnswer": "Một phần ba" }
+    ]
+  },
+  {
+    "level": 7,
+    "questions": [
+      { "question": "1 kg bằng bao nhiêu gam?", "options": ["1000 g", "100 g", "10 g", "500 g"], "correctAnswer": "1000 g" },
+      { "question": "500 g + 300 g = ?", "options": ["800 g", "700 g", "900 g", "600 g"], "correctAnswer": "800 g" },
+      { "question": "1 kg - 400 g = ?", "options": ["600 g", "500 g", "700 g", "400 g"], "correctAnswer": "600 g" },
+      { "question": "2 kg bằng bao nhiêu gam?", "options": ["2000 g", "200 g", "1000 g", "20 g"], "correctAnswer": "2000 g" },
+      { "question": "750 g + 250 g = ?", "options": ["1000 g", "900 g", "1100 g", "950 g"], "correctAnswer": "1000 g" },
+      { "question": "Vật nào nặng nhất?", "options": ["1 kg", "500 g", "800 g", "300 g"], "correctAnswer": "1 kg" },
+      { "question": "3 kg bằng bao nhiêu gam?", "options": ["3000 g", "300 g", "30 g", "1500 g"], "correctAnswer": "3000 g" },
+      { "question": "1200 g bằng bao nhiêu kg và gam?", "options": ["1 kg 200 g", "2 kg 100 g", "1 kg 20 g", "12 kg"], "correctAnswer": "1 kg 200 g" },
+      { "question": "600 g - 250 g = ?", "options": ["350 g", "340 g", "360 g", "300 g"], "correctAnswer": "350 g" },
+      { "question": "Túi gạo nặng 5 kg, dùng hết 2 kg. Còn lại bao nhiêu ki-lô-gam?", "options": ["3 kg", "2 kg", "4 kg", "7 kg"], "correctAnswer": "3 kg" }
+    ]
+  },
+  {
+    "level": 8,
+    "questions": [
+      { "question": "Hình chữ nhật có chiều dài 5 cm, chiều rộng 3 cm. Chu vi là bao nhiêu?", "options": ["16 cm", "15 cm", "8 cm", "18 cm"], "correctAnswer": "16 cm" },
+      { "question": "Hình vuông có cạnh 4 cm. Chu vi là bao nhiêu?", "options": ["16 cm", "8 cm", "12 cm", "20 cm"], "correctAnswer": "16 cm" },
+      { "question": "Hình chữ nhật có chiều dài 6 cm, chiều rộng 2 cm. Chu vi là bao nhiêu?", "options": ["16 cm", "12 cm", "8 cm", "18 cm"], "correctAnswer": "16 cm" },
+      { "question": "Hình vuông có cạnh 5 cm. Chu vi là bao nhiêu?", "options": ["20 cm", "25 cm", "10 cm", "15 cm"], "correctAnswer": "20 cm" },
+      { "question": "Muốn tính chu vi hình vuông ta lấy cạnh nhân với mấy?", "options": ["4", "2", "3", "5"], "correctAnswer": "4" },
+      { "question": "Muốn tính chu vi hình chữ nhật ta lấy (dài + rộng) nhân với mấy?", "options": ["2", "4", "3", "1"], "correctAnswer": "2" },
+      { "question": "Hình chữ nhật có chiều dài 8 cm, chiều rộng 3 cm. Chu vi là bao nhiêu?", "options": ["22 cm", "24 cm", "11 cm", "20 cm"], "correctAnswer": "22 cm" },
+      { "question": "Hình vuông có chu vi 24 cm. Cạnh hình vuông là bao nhiêu?", "options": ["6 cm", "4 cm", "8 cm", "12 cm"], "correctAnswer": "6 cm" },
+      { "question": "Hình chữ nhật có chiều dài 10 cm, chiều rộng 4 cm. Chu vi là bao nhiêu?", "options": ["28 cm", "40 cm", "14 cm", "24 cm"], "correctAnswer": "28 cm" },
+      { "question": "Hình vuông có cạnh 7 cm. Chu vi là bao nhiêu?", "options": ["28 cm", "49 cm", "14 cm", "21 cm"], "correctAnswer": "28 cm" }
+    ]
+  },
+  {
+    "level": 9,
+    "questions": [
+      { "question": "Hình chữ nhật có chiều dài 5 cm, chiều rộng 3 cm. Diện tích là bao nhiêu?", "options": ["15 cm²", "16 cm²", "8 cm²", "18 cm²"], "correctAnswer": "15 cm²" },
+      { "question": "Hình vuông có cạnh 4 cm. Diện tích là bao nhiêu?", "options": ["16 cm²", "8 cm²", "12 cm²", "20 cm²"], "correctAnswer": "16 cm²" },
+      { "question": "Muốn tính diện tích hình chữ nhật ta lấy chiều dài nhân với gì?", "options": ["Chiều rộng", "Chu vi", "Cạnh", "Chiều cao"], "correctAnswer": "Chiều rộng" },
+      { "question": "Hình vuông có cạnh 6 cm. Diện tích là bao nhiêu?", "options": ["36 cm²", "24 cm²", "12 cm²", "30 cm²"], "correctAnswer": "36 cm²" },
+      { "question": "Hình chữ nhật có chiều dài 7 cm, chiều rộng 2 cm. Diện tích là bao nhiêu?", "options": ["14 cm²", "18 cm²", "9 cm²", "16 cm²"], "correctAnswer": "14 cm²" },
+      { "question": "Muốn tính diện tích hình vuông ta lấy cạnh nhân với gì?", "options": ["Chính nó (cạnh)", "Chu vi", "2", "4"], "correctAnswer": "Chính nó (cạnh)" },
+      { "question": "Hình chữ nhật có chiều dài 9 cm, chiều rộng 4 cm. Diện tích là bao nhiêu?", "options": ["36 cm²", "13 cm²", "26 cm²", "40 cm²"], "correctAnswer": "36 cm²" },
+      { "question": "Hình vuông có cạnh 8 cm. Diện tích là bao nhiêu?", "options": ["64 cm²", "32 cm²", "16 cm²", "48 cm²"], "correctAnswer": "64 cm²" },
+      { "question": "Hình chữ nhật có diện tích 20 cm², chiều rộng 4 cm. Chiều dài là bao nhiêu?", "options": ["5 cm", "4 cm", "6 cm", "8 cm"], "correctAnswer": "5 cm" },
+      { "question": "Hình vuông có diện tích 25 cm². Cạnh hình vuông là bao nhiêu?", "options": ["5 cm", "4 cm", "6 cm", "25 cm"], "correctAnswer": "5 cm" }
+    ]
+  },
+  {
+    "level": 10,
+    "questions": [
+      { "question": "Một cửa hàng có 245 kg gạo, bán đi 128 kg. Hỏi còn lại bao nhiêu ki-lô-gam gạo?", "options": ["117 kg", "116 kg", "118 kg", "115 kg"], "correctAnswer": "117 kg" },
+      { "question": "Một đội có 8 tổ, mỗi tổ có 9 người. Hỏi đội có tất cả bao nhiêu người?", "options": ["72", "70", "74", "68"], "correctAnswer": "72" },
+      { "question": "Có 96 quyển vở chia đều cho 4 lớp. Hỏi mỗi lớp được bao nhiêu quyển vở?", "options": ["24", "22", "26", "20"], "correctAnswer": "24" },
+      { "question": "Một mảnh vườn hình chữ nhật dài 12 m, rộng 5 m. Tính chu vi mảnh vườn.", "options": ["34 m", "60 m", "17 m", "40 m"], "correctAnswer": "34 m" },
+      { "question": "Một sân hình vuông có cạnh 9 m. Tính diện tích sân đó.", "options": ["81 m²", "36 m²", "18 m²", "72 m²"], "correctAnswer": "81 m²" },
+      { "question": "Một xe tải chở 3 chuyến, mỗi chuyến 45 bao gạo. Hỏi xe đã chở tất cả bao nhiêu bao gạo?", "options": ["135", "130", "140", "125"], "correctAnswer": "135" },
+      { "question": "Có 63 cái kẹo chia đều cho 7 bạn. Hỏi mỗi bạn được bao nhiêu cái kẹo?", "options": ["9", "8", "10", "7"], "correctAnswer": "9" },
+      { "question": "Một trường có 320 học sinh, chuyển đi 45 học sinh, nhận thêm 25 học sinh. Hỏi trường hiện có bao nhiêu học sinh?", "options": ["300", "290", "310", "295"], "correctAnswer": "300" },
+      { "question": "Một hình chữ nhật có chiều dài 15 cm, chiều rộng 6 cm. Tính diện tích.", "options": ["90 cm²", "42 cm²", "21 cm²", "84 cm²"], "correctAnswer": "90 cm²" },
+      { "question": "Mẹ có 500000 đồng, mua quần áo hết 235000 đồng. Hỏi mẹ còn lại bao nhiêu tiền?", "options": ["265000", "260000", "270000", "255000"], "correctAnswer": "265000" }
+    ]
+  }
+]

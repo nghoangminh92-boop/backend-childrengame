@@ -1,0 +1,152 @@
+[
+  {
+    "level": 1,
+    "questions": [
+      { "question": "What is the English word for 'cao'?", "options": ["Tall", "Short", "Fat", "Thin"], "correctAnswer": "Tall" },
+      { "question": "What is the English word for 'thấp'?", "options": ["Short", "Tall", "Big", "Small"], "correctAnswer": "Short" },
+      { "question": "What is the English word for 'gầy'?", "options": ["Thin", "Fat", "Tall", "Short"], "correctAnswer": "Thin" },
+      { "question": "What is the English word for 'mập/béo'?", "options": ["Fat", "Thin", "Tall", "Short"], "correctAnswer": "Fat" },
+      { "question": "What is the English word for 'đẹp'?", "options": ["Beautiful", "Ugly", "Strong", "Weak"], "correctAnswer": "Beautiful" },
+      { "question": "What is the English word for 'thông minh'?", "options": ["Intelligent", "Lazy", "Slow", "Weak"], "correctAnswer": "Intelligent" },
+      { "question": "What is the English word for 'chăm chỉ'?", "options": ["Hard-working", "Lazy", "Fat", "Thin"], "correctAnswer": "Hard-working" },
+      { "question": "What is the English word for 'lười biếng'?", "options": ["Lazy", "Hard-working", "Strong", "Tall"], "correctAnswer": "Lazy" },
+      { "question": "What is the English word for 'mạnh mẽ'?", "options": ["Strong", "Weak", "Small", "Short"], "correctAnswer": "Strong" },
+      { "question": "What is the English word for 'yếu'?", "options": ["Weak", "Strong", "Tall", "Fat"], "correctAnswer": "Weak" }
+    ]
+  },
+  {
+    "level": 2,
+    "questions": [
+      { "question": "What is the English word for 'xem phim' (thời gian rảnh)?", "options": ["Watching movies", "Doing homework", "Cleaning", "Cooking"], "correctAnswer": "Watching movies" },
+      { "question": "What is the English word for 'chơi game'?", "options": ["Playing games", "Reading books", "Doing homework", "Cleaning"], "correctAnswer": "Playing games" },
+      { "question": "What is the English word for 'đi dạo'?", "options": ["Going for a walk", "Watching movies", "Cooking", "Cleaning"], "correctAnswer": "Going for a walk" },
+      { "question": "What is the English word for 'gặp bạn bè'?", "options": ["Meeting friends", "Doing homework", "Reading", "Cleaning"], "correctAnswer": "Meeting friends" },
+      { "question": "Complete: In my free time, I like ___ (read) books.", "options": ["reading", "read", "reads", "to reading"], "correctAnswer": "reading" },
+      { "question": "What is the English word for 'chơi cờ vua'?", "options": ["Playing chess", "Playing football", "Playing music", "Playing games"], "correctAnswer": "Playing chess" },
+      { "question": "What is the English word for 'đi picnic'?", "options": ["Going on a picnic", "Going to school", "Going shopping", "Going home"], "correctAnswer": "Going on a picnic" },
+      { "question": "Complete: At the weekend, we often ___ to the park.", "options": ["go", "goes", "going", "went"], "correctAnswer": "go" },
+      { "question": "What is the English word for 'thư giãn'?", "options": ["Relaxing", "Working", "Studying", "Cleaning"], "correctAnswer": "Relaxing" },
+      { "question": "What is the English word for 'xem tivi'?", "options": ["Watching TV", "Reading books", "Playing chess", "Cooking"], "correctAnswer": "Watching TV" }
+    ]
+  },
+  {
+    "level": 3,
+    "questions": [
+      { "question": "Complete: I ___ visit my grandparents next weekend.", "options": ["will", "did", "am", "was"], "correctAnswer": "will" },
+      { "question": "Complete: She ___ go to Da Lat next summer.", "options": ["will", "did", "was", "is"], "correctAnswer": "will" },
+      { "question": "Complete: They ___ travel to Hanoi tomorrow.", "options": ["will", "did", "was", "were"], "correctAnswer": "will" },
+      { "question": "Choose the correct future sentence.", "options": ["I will go to school tomorrow.", "I go to school tomorrow.", "I went to school tomorrow.", "I going to school tomorrow."], "correctAnswer": "I will go to school tomorrow." },
+      { "question": "Complete: We ___ have a party next Friday.", "options": ["will", "did", "was", "were"], "correctAnswer": "will" },
+      { "question": "What is the English word for 'tương lai'?", "options": ["Future", "Past", "Present", "Now"], "correctAnswer": "Future" },
+      { "question": "Complete: My father ___ buy a new car next month.", "options": ["will", "did", "was", "is"], "correctAnswer": "will" },
+      { "question": "Complete: ___ you visit me next week?", "options": ["Will", "Did", "Was", "Do"], "correctAnswer": "Will" },
+      { "question": "Complete: I think it ___ rain tomorrow.", "options": ["will", "did", "was", "is"], "correctAnswer": "will" },
+      { "question": "Complete: They ___ not come to school tomorrow.", "options": ["will", "did", "was", "were"], "correctAnswer": "will" }
+    ]
+  },
+  {
+    "level": 4,
+    "questions": [
+      { "question": "What is the English word for 'rừng'?", "options": ["Forest", "River", "Mountain", "Ocean"], "correctAnswer": "Forest" },
+      { "question": "What is the English word for 'con sông'?", "options": ["River", "Forest", "Mountain", "Lake"], "correctAnswer": "River" },
+      { "question": "What is the English word for 'núi'?", "options": ["Mountain", "River", "Forest", "Ocean"], "correctAnswer": "Mountain" },
+      { "question": "What is the English word for 'đại dương'?", "options": ["Ocean", "River", "Lake", "Forest"], "correctAnswer": "Ocean" },
+      { "question": "What is the English word for 'hồ'?", "options": ["Lake", "River", "Ocean", "Mountain"], "correctAnswer": "Lake" },
+      { "question": "What is the English word for 'ô nhiễm'?", "options": ["Pollution", "Nature", "Forest", "Ocean"], "correctAnswer": "Pollution" },
+      { "question": "What is the English word for 'bảo vệ môi trường'?", "options": ["Protect the environment", "Pollute the environment", "Destroy the forest", "Cut trees"], "correctAnswer": "Protect the environment" },
+      { "question": "What is the English word for 'cái cây'?", "options": ["Tree", "Flower", "Grass", "Leaf"], "correctAnswer": "Tree" },
+      { "question": "What is the English word for 'sa mạc'?", "options": ["Desert", "Forest", "Ocean", "River"], "correctAnswer": "Desert" },
+      { "question": "What is the English word for 'thiên nhiên'?", "options": ["Nature", "City", "Pollution", "Building"], "correctAnswer": "Nature" }
+    ]
+  },
+  {
+    "level": 5,
+    "questions": [
+      { "question": "What is the English word for 'bị ốm/bệnh'?", "options": ["Sick", "Healthy", "Strong", "Tired"], "correctAnswer": "Sick" },
+      { "question": "What is the English word for 'ho'?", "options": ["Cough", "Fever", "Headache", "Cold"], "correctAnswer": "Cough" },
+      { "question": "What is the English word for 'sốt'?", "options": ["Fever", "Cough", "Headache", "Toothache"], "correctAnswer": "Fever" },
+      { "question": "What is the English word for 'đau đầu'?", "options": ["Headache", "Stomachache", "Toothache", "Fever"], "correctAnswer": "Headache" },
+      { "question": "What is the English word for 'đau bụng'?", "options": ["Stomachache", "Headache", "Toothache", "Cough"], "correctAnswer": "Stomachache" },
+      { "question": "What is the English word for 'đau răng'?", "options": ["Toothache", "Headache", "Stomachache", "Fever"], "correctAnswer": "Toothache" },
+      { "question": "Complete: You should see a doctor if you ___ sick.", "options": ["are", "is", "am", "be"], "correctAnswer": "are" },
+      { "question": "What is the English word for 'cảm lạnh'?", "options": ["Cold", "Fever", "Cough", "Headache"], "correctAnswer": "Cold" },
+      { "question": "What is the English word for 'khỏe mạnh'?", "options": ["Healthy", "Sick", "Weak", "Tired"], "correctAnswer": "Healthy" },
+      { "question": "Complete: I have a ___, so I need some medicine.", "options": ["headache", "happy", "hobby", "holiday"], "correctAnswer": "headache" }
+    ]
+  },
+  {
+    "level": 6,
+    "questions": [
+      { "question": "Complete: You ___ wear a helmet when riding a motorbike.", "options": ["must", "can", "may", "would"], "correctAnswer": "must" },
+      { "question": "Complete: ___ I borrow your pen, please?", "options": ["Can", "Must", "Should", "Will"], "correctAnswer": "Can" },
+      { "question": "Complete: Students ___ not talk during the exam.", "options": ["should", "can", "may", "will"], "correctAnswer": "should" },
+      { "question": "Complete: You ___ be quiet in the library.", "options": ["must", "will", "did", "was"], "correctAnswer": "must" },
+      { "question": "Complete: ___ you help me with this bag?", "options": ["Can", "Must", "Should", "Did"], "correctAnswer": "Can" },
+      { "question": "Complete: We ___ finish our homework before playing.", "options": ["should", "can", "may", "will"], "correctAnswer": "should" },
+      { "question": "Complete: You ___ not smoke here. It's not allowed.", "options": ["must", "can", "should", "may"], "correctAnswer": "must" },
+      { "question": "Complete: ___ I go to the toilet, please?", "options": ["May", "Must", "Will", "Did"], "correctAnswer": "May" },
+      { "question": "Choose the correct sentence.", "options": ["You must wear a seatbelt.", "You must wearing a seatbelt.", "You must to wear a seatbelt.", "You must wears a seatbelt."], "correctAnswer": "You must wear a seatbelt." },
+      { "question": "Complete: Children ___ cross the street carefully.", "options": ["should", "must", "can", "will"], "correctAnswer": "should" }
+    ]
+  },
+  {
+    "level": 7,
+    "questions": [
+      { "question": "What is the English word for 'Việt Nam'?", "options": ["Vietnam", "Vietnamese", "Vietnamesia", "Viet"], "correctAnswer": "Vietnam" },
+      { "question": "What nationality are people from Vietnam?", "options": ["Vietnamese", "Vietnam", "Vietnamer", "Viet"], "correctAnswer": "Vietnamese" },
+      { "question": "What is the English word for 'nước Anh'?", "options": ["England", "English", "Britain", "British"], "correctAnswer": "England" },
+      { "question": "What nationality are people from Japan?", "options": ["Japanese", "Japan", "Japaner", "Japanish"], "correctAnswer": "Japanese" },
+      { "question": "What is the English word for 'nước Mỹ'?", "options": ["The United States", "England", "France", "China"], "correctAnswer": "The United States" },
+      { "question": "What nationality are people from China?", "options": ["Chinese", "China", "Chiner", "Chinesian"], "correctAnswer": "Chinese" },
+      { "question": "What is the English word for 'nước Pháp'?", "options": ["France", "French", "Frenchland", "Franch"], "correctAnswer": "France" },
+      { "question": "What nationality are people from Korea?", "options": ["Korean", "Korea", "Koreanese", "Koreaner"], "correctAnswer": "Korean" },
+      { "question": "What is the English word for 'nước Úc'?", "options": ["Australia", "Australian", "Austria", "Austrilia"], "correctAnswer": "Australia" },
+      { "question": "Complete: I am from Vietnam, so I am ___.", "options": ["Vietnamese", "Vietnam", "Vietnamer", "Viet"], "correctAnswer": "Vietnamese" }
+    ]
+  },
+  {
+    "level": 8,
+    "questions": [
+      { "question": "A: 'Can I take your order?' B: '___'", "options": ["Yes, I'd like some rice, please.", "It's Monday.", "I am fine.", "See you."], "correctAnswer": "Yes, I'd like some rice, please." },
+      { "question": "What is the English word for 'thực đơn'?", "options": ["Menu", "Bill", "Food", "Table"], "correctAnswer": "Menu" },
+      { "question": "What is the English word for 'hóa đơn'?", "options": ["Bill", "Menu", "Food", "Waiter"], "correctAnswer": "Bill" },
+      { "question": "What is the English word for 'phục vụ bàn'?", "options": ["Waiter", "Cook", "Chef", "Manager"], "correctAnswer": "Waiter" },
+      { "question": "Complete: Could I have ___ water, please?", "options": ["some", "any", "a", "an"], "correctAnswer": "some" },
+      { "question": "A: 'Would you like some dessert?' B: '___'", "options": ["Yes, please.", "It's blue.", "I am ten.", "See you."], "correctAnswer": "Yes, please." },
+      { "question": "What is the English word for 'gọi món'?", "options": ["Order food", "Cook food", "Eat food", "Buy food"], "correctAnswer": "Order food" },
+      { "question": "Complete: Can I have the bill, ___?", "options": ["please", "sorry", "thanks", "hello"], "correctAnswer": "please" },
+      { "question": "What is the English word for 'ngon'?", "options": ["Delicious", "Terrible", "Expensive", "Cheap"], "correctAnswer": "Delicious" },
+      { "question": "A: 'How is the food?' B: '___'", "options": ["It's delicious!", "It's Monday.", "I am ten.", "It's blue."], "correctAnswer": "It's delicious!" }
+    ]
+  },
+  {
+    "level": 9,
+    "questions": [
+      { "question": "Read: 'Nam gets up at 6 am, has breakfast, then goes to school at 7 am.' What time does Nam go to school?", "options": ["7 am", "6 am", "8 am", "5 am"], "correctAnswer": "7 am" },
+      { "question": "Read: 'Lan's favorite subject is Math because she loves numbers.' Why does Lan love Math?", "options": ["Because she loves numbers", "Because it is easy", "Because her teacher is kind", "Because it is short"], "correctAnswer": "Because she loves numbers" },
+      { "question": "Read: 'The weather in Da Lat is cool all year round.' What is the weather like in Da Lat?", "options": ["Cool", "Hot", "Rainy", "Snowy"], "correctAnswer": "Cool" },
+      { "question": "Read: 'Minh wants to be a doctor to help sick people.' What does Minh want to be?", "options": ["A doctor", "A teacher", "A farmer", "A singer"], "correctAnswer": "A doctor" },
+      { "question": "Read: 'Every Sunday, my family goes to the market to buy fresh vegetables.' When does the family go to the market?", "options": ["Every Sunday", "Every Monday", "Every day", "Every Saturday"], "correctAnswer": "Every Sunday" },
+      { "question": "Read: 'The river near my house is very clean and full of fish.' What is in the river?", "options": ["Fish", "Rocks", "Boats", "Trash"], "correctAnswer": "Fish" },
+      { "question": "Read: 'Tom plays the piano every afternoon after school.' When does Tom play the piano?", "options": ["Every afternoon after school", "Every morning", "Every night", "On weekends only"], "correctAnswer": "Every afternoon after school" },
+      { "question": "Read: 'My grandmother tells us interesting stories before bedtime.' Who tells stories before bedtime?", "options": ["Grandmother", "Mother", "Father", "Teacher"], "correctAnswer": "Grandmother" },
+      { "question": "Read: 'The museum has many old paintings and statues.' What can you find in the museum?", "options": ["Paintings and statues", "Books and pens", "Food and drinks", "Clothes and shoes"], "correctAnswer": "Paintings and statues" },
+      { "question": "Read: 'It takes 30 minutes to walk from my house to school.' How long does it take to walk to school?", "options": ["30 minutes", "10 minutes", "1 hour", "15 minutes"], "correctAnswer": "30 minutes" }
+    ]
+  },
+  {
+    "level": 10,
+    "questions": [
+      { "question": "Choose the best topic sentence for a paragraph about your family.", "options": ["I have a happy family with four people.", "The weather is nice today.", "I like playing football.", "My school is big."], "correctAnswer": "I have a happy family with four people." },
+      { "question": "Which sentence uses correct punctuation?", "options": ["My name is Lan.", "my name is lan", "My name is lan.", "MY NAME IS LAN"], "correctAnswer": "My name is Lan." },
+      { "question": "Choose the correct order for a simple paragraph.", "options": ["Topic sentence, details, conclusion", "Conclusion, details, topic sentence", "Details, conclusion, topic sentence", "Random order"], "correctAnswer": "Topic sentence, details, conclusion" },
+      { "question": "Which word connects two similar ideas?", "options": ["And", "But", "Because", "However"], "correctAnswer": "And" },
+      { "question": "Which word shows a contrast between two ideas?", "options": ["But", "And", "Also", "Then"], "correctAnswer": "But" },
+      { "question": "Choose the best closing sentence for a paragraph about a pet.", "options": ["I love my dog very much.", "The weather is sunny.", "I go to school every day.", "My favorite color is blue."], "correctAnswer": "I love my dog very much." },
+      { "question": "Which sentence describes a daily routine correctly?", "options": ["I wake up at 6 am every day.", "I wake up 6 am.", "I woke up at 6 am tomorrow.", "Wake up I at 6 am."], "correctAnswer": "I wake up at 6 am every day." },
+      { "question": "Choose the correct sentence about a hobby.", "options": ["I like reading books in my free time.", "I like read books.", "I liking read books.", "I likes reading books."], "correctAnswer": "I like reading books in my free time." },
+      { "question": "Which word should start a sentence giving a reason?", "options": ["Because", "And", "But", "Then"], "correctAnswer": "Because" },
+      { "question": "Choose the sentence with correct capitalization.", "options": ["I live in Hanoi, Vietnam.", "i live in hanoi, vietnam.", "I live in hanoi, Vietnam.", "I Live In Hanoi, Vietnam."], "correctAnswer": "I live in Hanoi, Vietnam." }
+    ]
+  }
+]
