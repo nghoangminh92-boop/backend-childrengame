@@ -41,6 +41,7 @@ const userSchema = new mongoose.Schema(
     currentLevel: {
       math: { type: Map, of: Number, default: {} },
       english: { type: Map, of: Number, default: {} },
+      animal: { type: Map, of: Number, default: {} }, // ⭐ thêm "animal"
     },
     totalScore: {
       type: Number,

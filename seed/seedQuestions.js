@@ -1,7 +1,7 @@
 // backend/seed/seedQuestions.js
 //
 // Script đọc dữ liệu câu hỏi từ các file JSON trong backend/data
-// (ví dụ: math-grade1.json, english-grade1.json, math-grade2.json, ...)
+// (ví dụ: math-grade1.json, english-grade1.json, animal-grade1.json, ...)
 // và import vào MongoDB collection "questions" theo đúng schema Question.js
 //
 // CÁCH CHẠY (từ thư mục backend, KHÔNG phải từ trong seed/):
@@ -29,6 +29,7 @@ const DATA_DIR = path.join(__dirname, "..", "data");
 const FILES_TO_SEED = [
   "math-grade1.json",
   "english-grade1.json",
+  "animal-grade1.json",
   "math-grade2.json",
   "english-grade2.json",
   "math-grade3.json",
@@ -41,7 +42,7 @@ const FILES_TO_SEED = [
 
 // Parse "math-grade1.json" -> { type: "math", grade: 1 }
 const parseFileName = (fileName) => {
-  const match = fileName.match(/^(math|english)-grade(\d+)\.json$/i);
+  const match = fileName.match(/^(math|english|animal)-grade(\d+)\.json$/i); // ⭐ có "animal"
   if (!match) {
     throw new Error(
       `Tên file không đúng định dạng "{type}-grade{grade}.json": ${fileName}`
@@ -80,6 +81,7 @@ const seed = async () => {
           type,
           level,
           question: q.question,
+          imageUrl: q.imageUrl || null, // ⭐ copy ảnh nếu câu hỏi có (vd: animal)
           options: q.options,
           correctAnswer: q.correctAnswer,
           generatedByAI: false,

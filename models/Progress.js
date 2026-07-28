@@ -15,7 +15,7 @@ const progressSchema = new mongoose.Schema(
     },
     type: {
       type: String,
-      enum: ["math", "english"],
+      enum: ["math", "english", "animal"], // ⭐ thêm "animal"
       required: true,
     },
     level: {

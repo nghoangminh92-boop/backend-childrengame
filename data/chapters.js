@@ -146,7 +146,7 @@ export const getChapterMeta = (grade, type, level) => {
     CHAPTERS[grade]?.[type]?.[level] || {
       title: `Chương ${level}`,
       description: "Ôn tập tổng hợp",
-      icon: "📖",
+      icon: "📖", 
     }
   );
 };
