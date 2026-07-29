@@ -56,6 +56,11 @@ const seed = async () => {
 
   let totalInserted = 0;
   let totalSkippedFiles = 0;
+  // ⭐ MỚI: theo dõi riêng các file bị lỗi (khác với file "không tìm thấy")
+  // để in báo cáo rõ ràng ở cuối, giúp phát hiện ngay nếu có type chưa
+  // được thêm vào enum của Question schema, tránh crash bug âm thầm
+  // như đã từng xảy ra (animal-grade1.json làm dừng cả script giữa chừng).
+  const failedFiles = [];
 
   for (const fileName of FILES_TO_SEED) {
     const filePath = path.join(DATA_DIR, fileName);
@@ -66,54 +71,67 @@ const seed = async () => {
       continue;
     }
 
-    const { type, grade } = parseFileName(fileName);
-    const raw = fs.readFileSync(filePath, "utf-8");
-    const chapters = JSON.parse(raw); // [{ level, questions: [...] }, ...]
+    // ⭐ MỚI: bọc try/catch RIÊNG cho từng file — nếu 1 file lỗi (ví dụ
+    // sai enum, sai định dạng JSON, thiếu field bắt buộc...), chỉ file đó
+    // bị bỏ qua, KHÔNG làm dừng toàn bộ vòng lặp như trước đây.
+    try {
+      const { type, grade } = parseFileName(fileName);
+      const raw = fs.readFileSync(filePath, "utf-8");
+      const chapters = JSON.parse(raw); // [{ level, questions: [...] }, ...]
 
-    const docsToInsert = [];
+      const docsToInsert = [];
 
-    for (const chapter of chapters) {
-      const { level, questions } = chapter;
+      for (const chapter of chapters) {
+        const { level, questions } = chapter;
 
-      for (const q of questions) {
-        docsToInsert.push({
-          grade,
-          type,
-          level,
-          question: q.question,
-          imageUrl: q.imageUrl || null, // ⭐ copy ảnh nếu câu hỏi có (vd: animal)
-          options: q.options,
-          correctAnswer: q.correctAnswer,
-          generatedByAI: false,
-        });
+        for (const q of questions) {
+          docsToInsert.push({
+            grade,
+            type,
+            level,
+            question: q.question,
+            imageUrl: q.imageUrl || null, // ⭐ copy ảnh nếu câu hỏi có (vd: animal)
+            options: q.options,
+            correctAnswer: q.correctAnswer,
+            generatedByAI: false,
+          });
+        }
       }
+
+      // ⭐ Xoá dữ liệu cũ của đúng (type, grade) này trước khi insert lại
+      // để tránh bị nhân đôi câu hỏi nếu chạy script nhiều lần
+      const deleteResult = await Question.deleteMany({ type, grade });
+      console.log(
+        `🗑️  Đã xoá ${deleteResult.deletedCount} câu hỏi cũ của ${type} - lớp ${grade}`
+      );
+
+      const inserted = await Question.insertMany(docsToInsert);
+      console.log(
+        `✅ Đã import ${inserted.length} câu hỏi từ ${fileName} (type=${type}, grade=${grade})`
+      );
+
+      totalInserted += inserted.length;
+    } catch (fileErr) {
+      // ⭐ Ghi nhận lỗi và TIẾP TỤC sang file kế tiếp thay vì crash cả script
+      console.error(`🔥 LỖI khi import ${fileName}: ${fileErr.message}`);
+      failedFiles.push({ fileName, message: fileErr.message });
     }
-
-    // ⭐ Xoá dữ liệu cũ của đúng (type, grade) này trước khi insert lại
-    // để tránh bị nhân đôi câu hỏi nếu chạy script nhiều lần
-    const deleteResult = await Question.deleteMany({ type, grade });
-    console.log(
-      `🗑️  Đã xoá ${deleteResult.deletedCount} câu hỏi cũ của ${type} - lớp ${grade}`
-    );
-
-    const inserted = await Question.insertMany(docsToInsert);
-    console.log(
-      `✅ Đã import ${inserted.length} câu hỏi từ ${fileName} (type=${type}, grade=${grade})`
-    );
-
-    totalInserted += inserted.length;
   }
 
   console.log(`\n🎉 HOÀN TẤT: tổng cộng ${totalInserted} câu hỏi đã được import.`);
   if (totalSkippedFiles > 0) {
     console.log(`⚠️  ${totalSkippedFiles} file bị bỏ qua vì không tìm thấy.`);
   }
+  if (failedFiles.length > 0) {
+    console.log(`\n🔥 ${failedFiles.length} file bị LỖI khi import (cần sửa và chạy lại):`);
+    failedFiles.forEach((f) => console.log(`   - ${f.fileName}: ${f.message}`));
+  }
 
   await mongoose.connection.close();
-  process.exit(0);
+  process.exit(failedFiles.length > 0 ? 1 : 0);
 };
 
 seed().catch((err) => {
-  console.error("🔥 SEED ERROR:", err);
+  console.error("🔥 SEED ERROR (không thể kết nối DB hoặc lỗi ngoài dự kiến):", err);
   process.exit(1);
 });
