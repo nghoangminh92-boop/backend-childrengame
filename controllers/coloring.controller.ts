@@ -1,41 +1,43 @@
-// coloring.controller.ts
-//
-// ⚠️ LƯU Ý TÍCH HỢP: file này giả định dự án đã có sẵn một AuthGuard (ví dụ
-// JwtAuthGuard) gắn `req.user.userId` hoặc tương đương sau khi xác thực —
-// giống cách các module khác (bài review, dish...) trong project đang dùng.
-// Hãy đổi đường dẫn import `JwtAuthGuard` bên dưới cho khớp với vị trí thật
-// trong project (ví dụ "../auth/jwt-auth.guard").
-import {
-  Body,
-  Controller,
-  Delete,
-  Get,
-  Param,
-  Post,
-  Req,
-  UseGuards,
-} from "@nestjs/common";
-import { JwtAuthGuard } from "../auth/jwt-auth.guard"; // ⭐ chỉnh lại path cho đúng project
-import { ColoringService } from "./coloring.service";
+// coloring.service.ts
+import { ForbiddenException, Injectable, NotFoundException } from "@nestjs/common";
+import { InjectModel } from "@nestjs/mongoose";
+import { Model, Types } from "mongoose";
+import { Coloring, ColoringDocument } from "./coloring.schema";
 import { CreateColoringDto } from "./create-coloring.dto";
 
-@Controller("coloring")
-@UseGuards(JwtAuthGuard)
-export class ColoringController {
-  constructor(private readonly coloringService: ColoringService) {}
+@Injectable()
+export class ColoringService {
+  constructor(
+    @InjectModel(Coloring.name) private coloringModel: Model<ColoringDocument>
+  ) {}
 
-  @Post()
-  create(@Req() req, @Body() dto: CreateColoringDto) {
-    return this.coloringService.create(req.user.userId, dto);
+  async create(userId: string, dto: CreateColoringDto) {
+    const created = await this.coloringModel.create({
+      userId: new Types.ObjectId(userId),
+      title: dto.title,
+      outlineId: dto.outlineId,
+      imageData: dto.imageData,
+    });
+    return created;
   }
 
-  @Get("mine")
-  findMine(@Req() req) {
-    return this.coloringService.findAllByUser(req.user.userId);
+  async findAllByUser(userId: string) {
+    // ⭐ Sắp xếp mới nhất lên đầu, không trả imageData đầy đủ trong danh
+    // sách lớn sẽ tốt hơn cho hiệu năng — nhưng vì đây là bản v1 đơn giản
+    // (gallery cá nhân, số lượng ít) nên trả nguyên để FE hiển thị trực tiếp.
+    return this.coloringModel
+      .find({ userId: new Types.ObjectId(userId) })
+      .sort({ createdAt: -1 })
+      .lean();
   }
 
-  @Delete(":id")
-  remove(@Req() req, @Param("id") id: string) {
-    return this.coloringService.remove(req.user.userId, id);
+  async remove(userId: string, id: string) {
+    const doc = await this.coloringModel.findById(id);
+    if (!doc) throw new NotFoundException("Không tìm thấy tranh");
+    if (doc.userId.toString() !== userId) {
+      throw new ForbiddenException("Bạn không có quyền xoá tranh này");
+    }
+    await doc.deleteOne();
+    return { success: true };
   }
 }

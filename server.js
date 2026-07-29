@@ -8,6 +8,7 @@ import gameRoutes from "./routes/gameRoutes.js";
 import aiRoutes from "./routes/aiRoutes.js";
 import noticeRoutes from "./routes/noticeRoutes.js";
 import statRoutes from "./routes/statRoutes.js";
+import coloringRoutes from "./routes/coloring.routes.js"; // ⭐ THÊM MỚI
 
 dotenv.config();
 
@@ -18,7 +19,10 @@ app.use(cors({
   credentials: true,
 }));
 
-app.use(express.json());
+// ⭐ Tăng giới hạn body JSON — mặc định của express.json() chỉ 100kb,
+// trong khi ảnh canvas tô màu (base64 PNG) thường vài trăm KB tới vài MB.
+// Nếu không tăng, request lưu tranh sẽ bị lỗi "PayloadTooLargeError" (413).
+app.use(express.json({ limit: "5mb" }));
 
 connectDB();
 
@@ -34,6 +38,8 @@ app.use("/api/game", gameRoutes);
 app.use("/api/ai", aiRoutes);
 app.use("/api/notices", noticeRoutes);
 app.use("/api/stats", statRoutes);
+app.use("/api/coloring", coloringRoutes); // ⭐ THÊM MỚI — phải nằm TRƯỚC middleware 404 bên dưới
+
 app.use((req, res) => {
   res.status(404).json({ message: "Route not found" });
 });
