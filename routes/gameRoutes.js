@@ -16,3 +16,4 @@ router.post("/submit", submitProgress);
 router.get("/leaderboard", getLeaderboard);
 
 export default router;
+  

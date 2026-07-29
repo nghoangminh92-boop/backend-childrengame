@@ -9,6 +9,7 @@ import aiRoutes from "./routes/aiRoutes.js";
 import noticeRoutes from "./routes/noticeRoutes.js";
 import statRoutes from "./routes/statRoutes.js";
 import coloringRoutes from "./routes/coloring.routes.js"; // ⭐ THÊM MỚI
+import animalRoutes from "./routes/animal.js"; // ⭐ THÊM MỚI
 
 dotenv.config();
 
@@ -39,6 +40,7 @@ app.use("/api/ai", aiRoutes);
 app.use("/api/notices", noticeRoutes);
 app.use("/api/stats", statRoutes);
 app.use("/api/coloring", coloringRoutes); // ⭐ THÊM MỚI — phải nằm TRƯỚC middleware 404 bên dưới
+app.use("/api/animal", animalRoutes); // ⭐ THÊM MỚI — phải nằm TRƯỚC middleware 404 bên dưới
 
 app.use((req, res) => {
   res.status(404).json({ message: "Route not found" });
