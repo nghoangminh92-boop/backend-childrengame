@@ -10,7 +10,10 @@ const questionSchema = new mongoose.Schema(
     },
     type: {
       type: String,
-      enum: ["math", "english"],
+      // ⭐ FIX: thêm "animal" — thiếu giá trị này khiến Question.insertMany()
+      // ném lỗi validation "not a valid enum value", làm dừng cả vòng lặp
+      // seed giữa chừng (bug đã gây ra việc lớp 2-5 Toán/Anh không được import).
+      enum: ["math", "english", "animal"],
       required: true,
     },
     level: {
@@ -22,6 +25,15 @@ const questionSchema = new mongoose.Schema(
       type: String,
       required: true,
       trim: true,
+    },
+    // ⭐ FIX: field này bị THIẾU hoàn toàn trước đây. Mongoose mặc định
+    // strict: true nên bất kỳ field nào không khai báo trong schema sẽ bị
+    // âm thầm loại bỏ lúc lưu — seed script có gửi imageUrl nhưng nó không
+    // bao giờ thực sự được lưu vào DB, khiến câu hỏi animal (dạng "nhìn ảnh
+    // đoán con vật") mất ảnh mà không có lỗi nào báo ra.
+    imageUrl: {
+      type: String,
+      default: null,
     },
     options: {
       type: [String],
