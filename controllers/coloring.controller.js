@@ -1,5 +1,5 @@
 // controllers/coloring.controller.js
-import Coloring from "../models/Coloring.js";
+import Coloring from "../models/coloring.js";
 
 const isValidPngDataUrl = (str) =>
   typeof str === "string" && str.startsWith("data:image/png;base64,");
